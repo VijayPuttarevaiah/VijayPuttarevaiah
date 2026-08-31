@@ -15,7 +15,7 @@
 
 ---
 
-### About Me
+## About Me
 
 Five years in IT: three-plus building backend and full-stack applications in Java, Spring Boot, and TypeScript at Wipro and Acuver Consulting, and a year and a half in SQL-based fraud analysis at Amazon.
 
@@ -23,7 +23,7 @@ The engineering work has been integration-heavy — Spring Boot services talking
 
 Now completing a Master of Applied Computer Science at Dalhousie University, focused on distributed architecture and cloud systems.
 
-### Current Focus
+## Current Focus
 
 - Open to **Software Development Co-op, Winter 2027**, across Canada
 - Building GenAI-integrated applications with AWS Bedrock, the Claude API, and Groq
@@ -33,9 +33,9 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 
 ---
 
-### Technical Skills
+## Technical Skills
 
-**Languages**
+### Languages
 
 <p>
 <img height="46" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;
@@ -47,7 +47,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 <img height="32" alt="SQL" src="https://img.shields.io/badge/SQL-0F5C6B?style=for-the-badge&logoColor=white" />
 </p>
 
-**Backend & APIs**
+### Backend & APIs
 
 <p>
 <img height="46" alt="Spring Boot" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />&nbsp;
@@ -64,16 +64,16 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 <img height="32" alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-0F5C6B?style=for-the-badge&logoColor=white" />
 </p>
 
-**Frontend**
+### Frontend
 
 <p>
 <img height="46" alt="React.js" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff"><img height="46" alt="Next.js" title="Next.js" src="https://cdn.simpleicons.org/nextdotjs/000000" /></picture>&nbsp;
+<img height="46" alt="Next.js" title="Next.js" src="https://cdn.simpleicons.org/nextdotjs/7D8590" />&nbsp;
 <img height="32" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
 <img height="32" alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-**Cloud & DevOps**
+### Cloud & DevOps
 
 <p>
 <img height="46" alt="AWS" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;
@@ -89,39 +89,41 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 <img height="32" alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-0F5C6B?style=for-the-badge&logoColor=white" />
 </p>
 
-**Operating Systems**
+### Operating Systems
 
 <p>
 <img height="46" alt="Linux" title="Linux" src="https://cdn.simpleicons.org/linux/FCC624" />&nbsp;
 <img height="46" alt="Windows" title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 </p>
 
-**Databases**
+### Databases
 
 <p>
 <img height="46" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;
 <img height="46" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
 <img height="46" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&nbsp;
 <img height="46" alt="DynamoDB" title="DynamoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />&nbsp;
+<img height="46" alt="Redis" title="Redis (caching)" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />&nbsp;
 <img height="32" alt="H2" src="https://img.shields.io/badge/H2-0F5C6B?style=for-the-badge&logoColor=white" />
 </p>
 
-**Testing**
+### Testing
 
 <p>
 <img height="46" alt="JUnit 5" title="JUnit 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />&nbsp;
+<img height="46" alt="Mockito" title="Mockito" src="https://avatars.githubusercontent.com/u/2054056?s=96&v=4" />&nbsp;
 <img height="46" alt="Vitest" title="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />&nbsp;
 <img height="46" alt="Pytest" title="Pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
 </p>
 
 <p>
-<img height="32" alt="Mockito" src="https://img.shields.io/badge/Mockito-0F5C6B?style=for-the-badge&logoColor=white" />&nbsp;
+
 <img height="32" alt="TDD" src="https://img.shields.io/badge/TDD-334155?style=for-the-badge&logoColor=white" />&nbsp;
 <img height="32" alt="Automated Testing" src="https://img.shields.io/badge/Automated_Testing-334155?style=for-the-badge&logoColor=white" />&nbsp;
 <img height="32" alt="Unit, Integration and E2E" src="https://img.shields.io/badge/Unit_%7C_Integration_%7C_E2E-334155?style=for-the-badge&logoColor=white" />
 </p>
 
-**Observability**
+### Observability
 
 <p>
 <img height="46" alt="Grafana" title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />&nbsp;
@@ -130,12 +132,12 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 <img height="32" alt="Structured Logging" src="https://img.shields.io/badge/Structured_Logging-334155?style=for-the-badge&logoColor=white" />
 </p>
 
-**AI & LLM**
+### AI & LLM
 
 <p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/claude/ffffff"><img height="46" alt="Anthropic Claude API" title="Anthropic Claude API" src="https://cdn.simpleicons.org/claude/000000" /></picture>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubcopilot/ffffff"><img height="46" alt="GitHub Copilot" title="GitHub Copilot" src="https://cdn.simpleicons.org/githubcopilot/000000" /></picture>&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/ffffff"><img height="46" alt="Cursor" title="Cursor" src="https://cdn.simpleicons.org/cursor/000000" /></picture>
+<img height="46" alt="Anthropic Claude API" title="Anthropic Claude API" src="https://cdn.simpleicons.org/claude/7D8590" />&nbsp;
+<img height="46" alt="GitHub Copilot" title="GitHub Copilot" src="https://cdn.simpleicons.org/githubcopilot/7D8590" />&nbsp;
+<img height="46" alt="Cursor" title="Cursor" src="https://cdn.simpleicons.org/cursor/7D8590" />
 </p>
 
 <p>
@@ -144,17 +146,21 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 <img height="32" alt="LLM Integration" src="https://img.shields.io/badge/LLM_Integration-0F5C6B?style=for-the-badge&logoColor=white" />
 </p>
 
-**Tools**
+### Tools
 
 <p>
 <img height="46" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><img height="46" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/181717" /></picture>&nbsp;
+<img height="46" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/7D8590" />&nbsp;
 <img height="46" alt="GitLab" title="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />&nbsp;
 <img height="46" alt="Bitbucket" title="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />&nbsp;
-<img height="46" alt="Confluence" title="Confluence" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" />
+<img height="46" alt="Confluence" title="Confluence" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" />&nbsp;
+<img height="46" alt="VS Code" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;
+<img height="46" alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />&nbsp;
+<img height="46" alt="Postman" title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />&nbsp;
+<img height="46" alt="PuTTY" title="PuTTY" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" />
 </p>
 
-**Core CS**
+### Core CS
 
 <p>
 <img height="32" alt="Data Structures and Algorithms" src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-334155?style=for-the-badge&logoColor=white" />&nbsp;
@@ -169,7 +175,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 <img height="32" alt="Scalable Application Design" src="https://img.shields.io/badge/Scalable_Application_Design-334155?style=for-the-badge&logoColor=white" />
 </p>
 
-**Practices**
+### Practices
 
 <p>
 <img height="32" alt="Agile/Scrum" src="https://img.shields.io/badge/Agile%2FScrum-475569?style=for-the-badge&logoColor=white" />&nbsp;
@@ -179,13 +185,13 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 
 ---
 
-### Professional Experience
+## Professional Experience
 
 <img height="34" alt="Acuver Consulting" src="https://img.shields.io/badge/Acuver_Consulting-0F5C6B?style=for-the-badge&logoColor=white" />
 
 **Software Engineer** · Jan 2025 – Dec 2025 · Bengaluru, India
 
-#### Smart Order Rerouting · Jun 2025 – Dec 2025
+### Smart Order Rerouting · Jun 2025 – Dec 2025
 
 `Java` `Spring Boot` `Spring Security` `JWT` `JUnit 5` `Jenkins` `Confluence`
 
@@ -195,7 +201,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 - Created and reviewed technical design documents on Confluence, leading technical walkthroughs and stakeholder demos.
 - Used in-IDE AI coding assistants for boilerplate generation and code suggestions across this build and the carrier refactor below, **cutting development time by 30%**.
 
-#### Carrier Management Services + Aekyam iPaaS · Jan 2025 – May 2025
+### Carrier Management Services + Aekyam iPaaS · Jan 2025 – May 2025
 
 `Java` `Spring Boot` `Spring WebFlux` `MongoDB` `React.js` `Redux`
 
@@ -210,7 +216,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 
 **Software Engineer** · Apr 2022 – Jul 2024 · Bengaluru, India
 
-#### Integrated Scrubbing Modernization · May 2022 – Jul 2024
+### Integrated Scrubbing Modernization · May 2022 – Jul 2024
 
 `Java` `Spring Boot` `OAuth 2.0` `MySQL` `Docker` `Kubernetes` `Jenkins` `JUnit 5`
 
@@ -224,7 +230,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 
 **Transaction Risk Investigator** · Sep 2020 – Apr 2022 · Bengaluru, India
 
-#### A to Z Claims · Sep 2020 – Apr 2022
+### A to Z Claims · Sep 2020 – Apr 2022
 
 `Java` `SQL`
 
@@ -233,7 +239,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 
 ---
 
-### Projects
+## Projects
 
 **[Triage](https://github.com/VijayPuttarevaiah/triage) — Autonomous incident response**
 
@@ -263,7 +269,7 @@ Four-person team project where I was the largest individual contributor, owning 
 
 ---
 
-### Education & Certifications
+## Education & Certifications
 
 **Master of Applied Computer Science** — Dalhousie University, Halifax · Jan 2026 – Apr 2027 · GPA 3.88/4.30
 **B.E. Electrical & Electronics Engineering** — National Institute of Engineering, Mysuru · Aug 2015 – Jul 2019
@@ -277,6 +283,6 @@ Four-person team project where I was the largest individual contributor, owning 
 
 ---
 
-### Contact
+## Contact
 
 [LinkedIn](LINKEDIN_URL_HERE) · [vijayputtarevaiah@gmail.com](mailto:vijayputtarevaiah@gmail.com)
