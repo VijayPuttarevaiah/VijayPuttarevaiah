@@ -31,25 +31,22 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 ## 🎯 Current Focus
 
-- Open to **Software Development Co-op, Winter 2027**, across Canada
-- Working toward **AWS Certified Solutions Architect – Associate**
-- Working toward **Claude Certified Architect – Foundations**
+<p>
+<img height="32" alt="Open to Co-op Winter 2027" src="https://img.shields.io/badge/Open_to-Co--op_Winter_2027-2EA043?style=for-the-badge" />&nbsp;
+<img height="32" alt="AWS Solutions Architect Associate in progress" src="https://img.shields.io/badge/In_progress-AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge" />&nbsp;
+<img height="32" alt="Claude Certified Architect Foundations in progress" src="https://img.shields.io/badge/In_progress-Claude_Certified_Architect-D97757?style=for-the-badge" />
+</p>
 
-Deepening distributed systems and cloud architecture through the MACS program at Dalhousie, with a focus on:
+Available across Canada. Deepening distributed systems and cloud architecture through the MACS program at Dalhousie, with a focus on:
 
-⚙️ **Backend engineering** — Java and Spring Boot services, REST APIs, and microservices built around third-party integrations that fail unpredictably
-
-🚀 **DevOps & deployments** — Docker, Kubernetes, Jenkins, and GitHub Actions pipelines, from build through to production rollout
-
-☁️ **Cloud infrastructure** — AWS and infrastructure as code with Terraform, aiming at well-architected system design
-
-📈 **Scalability** — services designed and load-tested to hold up under concurrent traffic, measured rather than assumed
-
-🛡️ **Production reliability** — health monitoring, retry and fallback paths, incident response, and systems designed to fail gracefully
-
-🤖 **Applied AI foundations** — AWS Bedrock, the Claude API, and Groq, with the model kept behind a policy boundary rather than wired straight into production actions
-
-Five years of supporting systems after release shapes how I build now. Every project below ships with infrastructure as code, CI on each pull request, security scanning, and tests that exercise the failure paths rather than just the happy one — because in production, the failure paths are the ones that get exercised.
+|  | Area | What that means |
+|:--:|---|---|
+| ⚙️ | **Backend engineering** | Java and Spring Boot services, REST APIs, and microservices built around third-party integrations that fail unpredictably |
+| 🚀 | **DevOps & deployments** | Docker, Kubernetes, Jenkins, and GitHub Actions pipelines, from build through to production rollout |
+| ☁️ | **Cloud infrastructure** | AWS and infrastructure as code with Terraform, aiming at well-architected system design |
+| 📈 | **Scalability** | Services designed and load-tested to hold up under concurrent traffic, measured rather than assumed |
+| 🛡️ | **Production reliability** | Health monitoring, retry and fallback paths, incident response, and systems designed to fail gracefully |
+| 🤖 | **Applied AI** | AWS Bedrock, the Claude API, and Groq, with the model kept behind a policy boundary rather than wired into production actions |
 
 I am looking for a strong team and a product where the job is not only to write code, but to understand complex systems, recover architecture, design internal tools, bring solutions to a working state, and leave a clear engineering base behind.
 
