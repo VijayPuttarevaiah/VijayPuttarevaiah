@@ -256,6 +256,7 @@ Apr 2022 – Jul 2024 · Bengaluru, India
 `Java` `Spring Boot` `OAuth 2.0` `MySQL` `Docker` `Kubernetes` `Jenkins` `JUnit 5`
 
 - Reduced infrastructure costs by **20%** by modernizing real-time claims scrubbing from a legacy IBM BPM platform to Edifecs, refactoring the scrubbing profiles and containerizing the Spring Boot applications with Docker.
+- Built a **Spring Boot health-check service from scratch**, adopted by the team as an internal tool, monitoring both containerized and non-containerized services and servers across the organization to catch failures before they reached end users.
 - Delivered **4 releases on schedule** across Development and Cert by leading Jenkins and Kubernetes deployments and providing third-level support for UAT and Production issues.
 - Cut post-release bugs by **25%** by raising code coverage to **85%** with JUnit 5, leading code reviews, and performing root-cause analysis on production issues.
 
