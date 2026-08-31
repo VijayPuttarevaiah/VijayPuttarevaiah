@@ -43,7 +43,9 @@ Deepening distributed systems and cloud architecture through the MACS program at
 
 🤖 **Applied AI foundations** — AWS Bedrock, the Claude API, and Groq, with the model kept behind a policy boundary rather than wired straight into production actions
 
-I treat the program as a starting point rather than the deliverable: the projects below carry infrastructure as code, CI/CD, security scanning, and real test suites well past what the assignments asked for.
+Five years of supporting systems after release shapes how I build now. Every project below ships with infrastructure as code, CI on each pull request, security scanning, and tests that exercise the failure paths rather than just the happy one — because in production, the failure paths are the ones that get exercised.
+
+I'm looking for backend, platform, or DevOps work where reliability is part of the requirement rather than a follow-up ticket.
 
 ---
 
