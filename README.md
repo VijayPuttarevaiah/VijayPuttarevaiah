@@ -26,10 +26,24 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 ## Current Focus
 
 - Open to **Software Development Co-op, Winter 2027**, across Canada
-- Building GenAI-integrated applications with AWS Bedrock, the Claude API, and Groq
 - Working toward **AWS Certified Solutions Architect – Associate**
 - Working toward **Claude Certified Architect – Foundations**
-- Deepening distributed systems and cloud architecture through the MACS program at Dalhousie. I treat the program as a starting point rather than the deliverable: the projects below carry infrastructure as code, CI/CD, security scanning, and real test suites well past what the assignments asked for.
+
+Deepening distributed systems and cloud architecture through the MACS program at Dalhousie, with a focus on:
+
+⚙️ **Backend engineering** — Java and Spring Boot services, REST APIs, and microservices built around third-party integrations that fail unpredictably
+
+🚀 **DevOps & deployments** — Docker, Kubernetes, Jenkins, and GitHub Actions pipelines, from build through to production rollout
+
+☁️ **Cloud infrastructure** — AWS and infrastructure as code with Terraform, aiming at well-architected system design
+
+📈 **Scalability** — services designed and load-tested to hold up under concurrent traffic, measured rather than assumed
+
+🛡️ **Production reliability** — health monitoring, retry and fallback paths, incident response, and systems designed to fail gracefully
+
+🤖 **Applied AI foundations** — AWS Bedrock, the Claude API, and Groq, with the model kept behind a policy boundary rather than wired straight into production actions
+
+I treat the program as a starting point rather than the deliverable: the projects below carry infrastructure as code, CI/CD, security scanning, and real test suites well past what the assignments asked for.
 
 ---
 
@@ -261,25 +275,25 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 
 ## Projects
 
-**[Triage](https://github.com/VijayPuttarevaiah/triage) — Autonomous incident response**
+**[Triage](https://github.com/VijayPuttarevaiah/triage) — Autonomous Incident Response & Self-Healing Infrastructure**
 
 `AWS Bedrock` `Step Functions` `Lambda` `DynamoDB` `Terraform` `Python` `Spring Boot`
 
 Detects, diagnoses, and remediates production incidents on a Spring Boot fintech workload. **10 Lambda functions** orchestrated through a Step Functions state machine, triggered by CloudWatch alarms. The model only ever *names* an action — a separate policy engine decides auto-remediate versus human approval, so the LLM never calls an AWS API directly. **Sub-120-second MTTR** on the auto-approved path, validated through built-in chaos endpoints, on **~100 Terraform-managed resources** with OIDC-federated CI/CD and no stored credentials.
 
-**[MeetFocus](https://github.com/VijayPuttarevaiah/meetfocus) — Link-less video conferencing**
+**[MeetFocus](https://github.com/VijayPuttarevaiah/meetfocus) — Link-Less Video Conferencing Platform**
 
 `Java` `Spring Boot` `Kafka` `WebSocket` `Eureka` `FastAPI` `PostgreSQL` `Redis` `Docker`
 
 **5 Spring Boot microservices** plus a Python moderation service, coordinated over Apache Kafka with Eureka service discovery. Invites relay from Kafka straight into an attendee's open WebSocket session; chat routes through a toxicity classifier and back, blocking flagged messages before broadcast. Validated through concurrency testing simulating **150 parallel attendee connections**.
 
-**[LEDGR](https://github.com/VijayPuttarevaiah/ledgr) — Personal finance and bill splitting**
+**[LEDGR](https://github.com/VijayPuttarevaiah/ledgr) — Personal Finance & Bill-Splitting Application**
 
 `Next.js` `TypeScript` `PostgreSQL` `React Native` `Vitest` `Playwright`
 
 A user's share of any shared group expense flows into their personal ledger with no manual reconciliation. **22+ REST API routes** and a **63-test Vitest suite** covering unit, integration, and end-to-end testing. Claude and Google Cloud Vision power categorization and receipt OCR behind a server-side kill switch that re-verifies every route independently and auto-disables AI features via a monthly spend cap.
 
-**[Recalibrate](https://github.com/VijayPuttarevaiah/recalibrate) — Adaptive goal tracking**
+**[Recalibrate](https://github.com/VijayPuttarevaiah/recalibrate) — AI-Assisted Adaptive Goal Planner**
 
 `Python` `FastAPI` `React` `MySQL` `Alembic` `GitLab CI` `AWS EC2` `Docker`
 
@@ -289,10 +303,14 @@ Four-person team project where I was the largest individual contributor, owning 
 
 ---
 
-## Education & Certifications
+## Education
 
-**Master of Applied Computer Science** — Dalhousie University, Halifax · Jan 2026 – Apr 2027 · GPA 3.88/4.30
+**Master of Applied Computer Science** — Dalhousie University, Halifax · Jan 2026 – Apr 2027
 **B.E. Electrical & Electronics Engineering** — National Institute of Engineering, Mysuru · Aug 2015 – Jul 2019
+
+---
+
+## Certifications
 
 <p>
 <img height="32" alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logoColor=white" />&nbsp;
