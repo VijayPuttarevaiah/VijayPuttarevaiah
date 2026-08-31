@@ -18,8 +18,9 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 
 - Open to **Software Development Co-op, Winter 2027**, across Canada
 - Building GenAI-integrated applications with AWS Bedrock, the Claude API, and Groq
-- Working toward **AWS Certified Solutions Architect – Associate** and **Claude Certified Architect – Foundations**
-- Deepening distributed systems and cloud architecture through the MACS program
+- Working toward **AWS Certified Solutions Architect – Associate**
+- Working toward **Claude Certified Architect – Foundations**, Anthropic's credential for designing production Claude systems
+- Deepening distributed systems and cloud architecture through the MACS program at Dalhousie — coursework in Advanced Cloud Architecture, Advanced Topics in Software Development, Advanced Topics in Web Development, and Database Management & Warehousing Analytics. I treat the coursework as the starting point rather than the deliverable: the projects below carry infrastructure as code, CI/CD, security scanning, and real test suites well past what the assignments asked for.
 
 ---
 
