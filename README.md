@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  Halifax, NS &nbsp;·&nbsp; Eligible to work in Canada
+  Open to Relocate &nbsp;·&nbsp; Eligible to work in Canada
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/vijayputtarevaiah"><img height="32" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>&nbsp;
-  <a href="mailto:vijayputtarevaiah@gmail.com"><img height="32" alt="Email" src="https://img.shields.io/badge/Email-232F3E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:vijayputtarevaiah@gmail.com"><img height="32" alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
