@@ -52,9 +52,7 @@ Four-person team, largest individual contributor, owning CI/CD and code quality.
 
 ---
 
-### Technology
-
-*Hover any icon for its name.*
+### Technical Skills
 
 **Languages**
 
@@ -63,9 +61,9 @@ Four-person team, largest individual contributor, owning CI/CD and code quality.
 <img height="38" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
 <img height="38" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
 <img height="38" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
-<img height="38" alt="MySQL" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
 <img height="38" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
-<img height="38" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img height="38" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
+<img height="28" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
 </p>
 
 **Backend & APIs**
@@ -78,14 +76,19 @@ Four-person team, largest individual contributor, owning CI/CD and code quality.
 <img height="38" alt="GraphQL" title="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
 </p>
 
-Spring MVC · Spring Security · Spring Data JPA · REST APIs
+<p>
+<img height="28" alt="Spring MVC" src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
+<img height="28" alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp;
+<img height="28" alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
+<img height="28" alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-0F6C7E?style=for-the-badge&logoColor=white" />
+</p>
 
 **Frontend**
 
 <p>
-<img height="38" alt="React" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
+<img height="38" alt="React.js" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff"><img height="38" alt="Next.js" title="Next.js" src="https://cdn.simpleicons.org/nextdotjs/000000" /></picture>&nbsp;
-<img height="38" alt="React Native" title="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img height="28" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 **Cloud & DevOps**
@@ -96,11 +99,20 @@ Spring MVC · Spring Security · Spring Data JPA · REST APIs
 <img height="38" alt="Kubernetes" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />&nbsp;
 <img height="38" alt="Jenkins" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />&nbsp;
 <img height="38" alt="Terraform" title="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />&nbsp;
-<img height="38" alt="Maven" title="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />&nbsp;
-<img height="38" alt="Linux" title="Linux" src="https://cdn.simpleicons.org/linux/FCC624" />
+<img height="38" alt="Maven" title="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
 </p>
 
-CI/CD · Continuous Delivery
+<p>
+<img height="28" alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp;
+<img height="28" alt="Continuous Delivery" src="https://img.shields.io/badge/Continuous_Delivery-2088FF?style=for-the-badge&logoColor=white" />
+</p>
+
+**Operating Systems**
+
+<p>
+<img height="38" alt="Linux" title="Linux" src="https://cdn.simpleicons.org/linux/FCC624" />&nbsp;
+<img height="38" alt="Windows" title="Windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+</p>
 
 **Databases**
 
@@ -108,10 +120,9 @@ CI/CD · Continuous Delivery
 <img height="38" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;
 <img height="38" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
 <img height="38" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&nbsp;
-<img height="38" alt="DynamoDB" title="DynamoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />
+<img height="38" alt="DynamoDB" title="DynamoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />&nbsp;
+<img height="28" alt="H2" src="https://img.shields.io/badge/H2-09476B?style=for-the-badge&logoColor=white" />
 </p>
-
-H2
 
 **Testing**
 
@@ -121,16 +132,21 @@ H2
 <img height="38" alt="Pytest" title="Pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
 </p>
 
-Mockito · Unit, Integration & End-to-End Testing · TDD
+<p>
+<img height="28" alt="Mockito" src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="TDD" src="https://img.shields.io/badge/TDD-2C3E50?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Automated Testing" src="https://img.shields.io/badge/Automated_Testing-2C3E50?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Unit, Integration and E2E" src="https://img.shields.io/badge/Unit_%7C_Integration_%7C_E2E-2C3E50?style=for-the-badge&logoColor=white" />
+</p>
 
 **Observability**
 
 <p>
 <img height="38" alt="Grafana" title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />&nbsp;
-<img height="38" alt="Prometheus" title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
+<img height="38" alt="Prometheus" title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />&nbsp;
+<img height="28" alt="AWS CloudWatch" src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp;
+<img height="28" alt="Structured Logging" src="https://img.shields.io/badge/Structured_Logging-2C3E50?style=for-the-badge&logoColor=white" />
 </p>
-
-AWS CloudWatch · Structured Logging
 
 **AI & LLM**
 
@@ -140,7 +156,11 @@ AWS CloudWatch · Structured Logging
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/ffffff"><img height="38" alt="Cursor" title="Cursor" src="https://cdn.simpleicons.org/cursor/000000" /></picture>
 </p>
 
-AWS Bedrock · Groq API · LLM Integration
+<p>
+<img height="28" alt="AWS Bedrock" src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />&nbsp;
+<img height="28" alt="Groq API" src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="LLM Integration" src="https://img.shields.io/badge/LLM_Integration-6E56CF?style=for-the-badge&logoColor=white" />
+</p>
 
 **Tools**
 
