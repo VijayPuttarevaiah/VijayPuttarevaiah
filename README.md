@@ -241,6 +241,8 @@ Client: [BJ's Wholesale Club](https://www.bjs.com)
 
 ### 🔹 Carrier Management Services + [Aekyam](https://aekyam.com) iPaaS · Jan 2025 – May 2025
 
+Client: [Titan](https://www.titancompany.in/)
+
 `Java` `Spring Boot` `MongoDB` `React.js` `Redux`
 
 - Reduced new-carrier onboarding effort by **75%** by refactoring carrier-specific logic onto the **Strategy pattern** and extending Spring Boot Turnaround Time APIs across **BlueDart**, **Criticalog**, and **Delhivery**.
@@ -258,6 +260,8 @@ Client: [BJ's Wholesale Club](https://www.bjs.com)
 Apr 2022 – Jul 2024 · Bengaluru, India
 
 ### 🔹 Integrated Scrubbing Modernization · May 2022 – Jul 2024
+
+Client: [Oracle Cerner Corporation](https://www.oracle.com/health/)
 
 `Java` `Spring Boot` `OAuth 2.0` `MySQL` `Docker` `Kubernetes` `Jenkins` `JUnit 5`
 
