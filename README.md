@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Vijay Puttarevaiah" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3500&pause=1200&color=37B7C3&center=true&vCenter=true&width=820&height=70&lines=Vijay+Puttarevaiah" />
+  <img alt="Vijay Puttarevaiah" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3500&pause=1200&color=A8D89A&center=true&vCenter=true&width=820&height=70&lines=Vijay+Puttarevaiah" />
 </p>
 
 <p align="center">
@@ -212,6 +212,7 @@ I am looking for a strong team and a product where the job is not only to write 
 <p>
 <img height="32" alt="Agile/Scrum" src="https://img.shields.io/badge/Agile%2FScrum-B45309?style=for-the-badge&logoColor=white" />&nbsp;
 <img height="32" alt="Code Reviews" src="https://img.shields.io/badge/Code_Reviews-BE185D?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="32" alt="Technical Documentation" src="https://img.shields.io/badge/Technical_Documentation-0369A1?style=for-the-badge&logoColor=white" />&nbsp;
 <img height="32" alt="Software Development Life Cycle" src="https://img.shields.io/badge/Software_Development_Life_Cycle_(SDLC)-15803D?style=for-the-badge&logoColor=white" />
 </p>
 
