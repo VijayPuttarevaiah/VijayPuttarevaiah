@@ -300,7 +300,7 @@ Detects, diagnoses, and remediates production incidents on a Spring Boot fintech
 
 **[LEDGR](https://github.com/VijayPuttarevaiah/ledgr) — Personal Finance & Bill-Splitting Application**
 
-`Next.js` `TypeScript` `PostgreSQL` `React Native` `Vitest` `Playwright`
+`Next.js` `TypeScript` `PostgreSQL` `React Native` `Vitest`
 
 A user's share of any shared group expense flows into their personal ledger with no manual reconciliation. **22+ REST API routes** and a **63-test Vitest suite** covering unit, integration, and end-to-end testing. Claude and Google Cloud Vision power categorization and receipt OCR behind a server-side kill switch that re-verifies every route independently and auto-disables AI features via a monthly spend cap.
 
