@@ -1,7 +1,5 @@
-<h1 align="center">Vijay Puttarevaiah</h1>
-
 <p align="center">
-  <b>Software Engineer</b> &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; AWS
+  <img src="assets/banner.png" alt="Vijay Puttarevaiah — Backend, DevOps, Cloud" width="100%" />
 </p>
 
 <p align="center">
@@ -291,27 +289,46 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 
 `AWS Bedrock` `Step Functions` `Lambda` `DynamoDB` `Terraform` `Python` `Spring Boot`
 
-Detects, diagnoses, and remediates production incidents on a Spring Boot fintech workload. **10 Lambda functions** orchestrated through a Step Functions state machine, triggered by CloudWatch alarms. The model only ever *names* an action — a separate policy engine decides auto-remediate versus human approval, so the LLM never calls an AWS API directly. **Sub-120-second MTTR** on the auto-approved path, validated through built-in chaos endpoints, on **~100 Terraform-managed resources** with OIDC-federated CI/CD and no stored credentials.
+- Built an autonomous incident-response pipeline that uses **AWS Bedrock** to diagnose incidents from CloudWatch evidence and decide between automated remediation and human approval.
+- Orchestrated **10 AWS Lambda functions** through a Step Functions state machine covering detection, diagnosis, remediation, and verification, hitting **sub-120-second MTTR** on the auto-approved path.
+- Kept the model from acting directly: Bedrock only names an action, while a separate policy engine decides whether to auto-execute it or route it to a human.
+- Provisioned **~100 Terraform-managed resources** including 16 least-privilege IAM roles, with OIDC-federated CI/CD and no long-lived AWS credentials stored anywhere.
 
 **[MeetFocus](https://github.com/VijayPuttarevaiah/meetfocus) — Link-Less Video Conferencing Platform**
 
 `Java` `Spring Boot` `Kafka` `WebSocket` `Eureka` `FastAPI` `PostgreSQL` `Redis` `Docker`
 
-**5 Spring Boot microservices** plus a Python moderation service, coordinated over Apache Kafka with Eureka service discovery. Invites relay from Kafka straight into an attendee's open WebSocket session; chat routes through a toxicity classifier and back, blocking flagged messages before broadcast. Validated through concurrency testing simulating **150 parallel attendee connections**.
+- Designed a link-less video conferencing platform from **5 Spring Boot microservices** and a Python moderation service, connected through Apache Kafka with Eureka handling service discovery.
+- Shipped real-time meeting invitations over WebSocket, relaying Kafka-published invite events straight into an attendee's already-open session.
+- Routed chat messages through Kafka to a toxicity classifier and back, blocking flagged content before broadcast.
+- Validated scalability and reliability through concurrency testing simulating **150 parallel attendee connections**.
 
 **[LEDGR](https://github.com/VijayPuttarevaiah/ledgr) — Personal Finance & Bill-Splitting Application**
 
 `Next.js` `TypeScript` `PostgreSQL` `React Native` `Vitest`
 
-A user's share of any shared group expense flows into their personal ledger with no manual reconciliation. **22+ REST API routes** and a **63-test Vitest suite** covering unit, integration, and end-to-end testing. Claude and Google Cloud Vision power categorization and receipt OCR behind a server-side kill switch that re-verifies every route independently and auto-disables AI features via a monthly spend cap.
+- Shipped a full-stack finance application on Next.js and PostgreSQL where a user's share of any group expense flows into their personal ledger with no manual reconciliation.
+- Delivered **22+ REST API routes** and a **63-test Vitest suite** covering unit, integration, and end-to-end testing.
+- Integrated Anthropic Claude and Google Cloud Vision for categorization and receipt OCR, behind a server-side kill switch that re-verifies every route independently of client state.
+- Capped AI spend with a monthly limit that auto-disables the features, guarding the same path that turns spending data into plain-language analytics summaries.
 
 **[Recalibrate](https://github.com/VijayPuttarevaiah/recalibrate) — AI-Assisted Adaptive Goal Planner**
 
 `Python` `FastAPI` `React` `MySQL` `Alembic` `GitLab CI` `AWS EC2` `Docker`
 
-Four-person team project where I was the largest individual contributor, owning CI/CD and code quality. GitLab CI through deployment to AWS EC2, Alembic-versioned MySQL schema, and DPy static design-smell detection as an enforced CI gate. LLM goal-detection built behind a provider-agnostic interface rather than a hardcoded integration.
+- Largest individual contributor on a **4-person team**, owning CI/CD and code quality end to end.
+- Built the GitLab CI pipeline (lint, test, Docker build) through to deployment on AWS EC2.
+- Versioned the MySQL schema with Alembic migrations, keeping database changes reproducible and rollback-safe across environments.
+- Integrated DPy static design-smell detection into CI as an enforced gate, then resolved the architectural smells it flagged.
+- Built LLM goal-detection behind a provider-agnostic interface rather than a hardcoded integration.
 
-**Open source** — Refactoring pull request to [Shopizer](https://github.com/shopizer-ecommerce/shopizer), an established Java e-commerce platform: **8 refactoring techniques** including a strategy pattern replacing an if-else chain in payment processing, an extracted shipping facade, and consolidated mapper duplication. Passed the project's quality gate with **zero new issues**. [PR #1094](https://github.com/shopizer-ecommerce/shopizer/pull/1094) — open for review.
+**Open Source — [Shopizer](https://github.com/shopizer-ecommerce/shopizer), Java E-Commerce Platform**
+
+`Java` `Refactoring` `Design Patterns`
+
+- Submitted an **8-technique refactoring pull request** to an established open-source Java e-commerce platform, with no change to external behaviour.
+- Replaced an extensive if-else chain in payment processing with a strategy pattern, extracted a shipping facade, and consolidated duplicate mapper logic into shared utilities.
+- Passed the project's automated quality gate with **zero new issues** and zero added duplication, full existing test suite green. [PR #1094](https://github.com/shopizer-ecommerce/shopizer/pull/1094) — open for review.
 
 ---
 
