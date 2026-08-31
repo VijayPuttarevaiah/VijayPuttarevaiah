@@ -1,8 +1,17 @@
-## Vijay Puttarevaiah
+<h1 align="center">Vijay Puttarevaiah</h1>
 
-**Software Engineer — Java · Spring Boot · Microservices · AWS**
+<p align="center">
+  <b>Software Engineer</b> &nbsp;·&nbsp; Java &nbsp;·&nbsp; Spring Boot &nbsp;·&nbsp; Microservices &nbsp;·&nbsp; AWS
+</p>
 
-Halifax, NS · Eligible to work in Canada
+<p align="center">
+  Halifax, NS &nbsp;·&nbsp; Eligible to work in Canada
+</p>
+
+<p align="center">
+  <a href="LINKEDIN_URL_HERE"><img height="28" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>&nbsp;
+  <a href="mailto:vijayputtarevaiah@gmail.com"><img height="28" alt="Email" src="https://img.shields.io/badge/Email-232F3E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
@@ -19,7 +28,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 - Open to **Software Development Co-op, Winter 2027**, across Canada
 - Building GenAI-integrated applications with AWS Bedrock, the Claude API, and Groq
 - Working toward **AWS Certified Solutions Architect – Associate**
-- Working toward **Claude Certified Architect – Foundations**, Anthropic's credential for designing production Claude systems
+- Working toward **Claude Certified Architect – Foundations**
 - Deepening distributed systems and cloud architecture through the MACS program at Dalhousie. I treat the program as a starting point rather than the deliverable: the projects below carry infrastructure as code, CI/CD, security scanning, and real test suites well past what the assignments asked for.
 
 ---
@@ -35,7 +44,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 <img height="38" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
 <img height="38" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
 <img height="38" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
-<img height="28" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
+<img height="28" alt="SQL" src="https://img.shields.io/badge/SQL-0F5C6B?style=for-the-badge&logoColor=white" />
 </p>
 
 **Backend & APIs**
@@ -52,7 +61,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 <img height="28" alt="Spring MVC" src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
 <img height="28" alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp;
 <img height="28" alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
-<img height="28" alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-0F6C7E?style=for-the-badge&logoColor=white" />
+<img height="28" alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-0F5C6B?style=for-the-badge&logoColor=white" />
 </p>
 
 **Frontend**
@@ -94,7 +103,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 <img height="38" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
 <img height="38" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&nbsp;
 <img height="38" alt="DynamoDB" title="DynamoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />&nbsp;
-<img height="28" alt="H2" src="https://img.shields.io/badge/H2-09476B?style=for-the-badge&logoColor=white" />
+<img height="28" alt="H2" src="https://img.shields.io/badge/H2-0F5C6B?style=for-the-badge&logoColor=white" />
 </p>
 
 **Testing**
@@ -106,10 +115,10 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 </p>
 
 <p>
-<img height="28" alt="Mockito" src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="TDD" src="https://img.shields.io/badge/TDD-2C3E50?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="Automated Testing" src="https://img.shields.io/badge/Automated_Testing-2C3E50?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="Unit, Integration and E2E" src="https://img.shields.io/badge/Unit_%7C_Integration_%7C_E2E-2C3E50?style=for-the-badge&logoColor=white" />
+<img height="28" alt="Mockito" src="https://img.shields.io/badge/Mockito-0F5C6B?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="TDD" src="https://img.shields.io/badge/TDD-334155?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Automated Testing" src="https://img.shields.io/badge/Automated_Testing-334155?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Unit, Integration and E2E" src="https://img.shields.io/badge/Unit_%7C_Integration_%7C_E2E-334155?style=for-the-badge&logoColor=white" />
 </p>
 
 **Observability**
@@ -117,8 +126,8 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 <p>
 <img height="38" alt="Grafana" title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />&nbsp;
 <img height="38" alt="Prometheus" title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />&nbsp;
-<img height="28" alt="AWS CloudWatch" src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="Structured Logging" src="https://img.shields.io/badge/Structured_Logging-2C3E50?style=for-the-badge&logoColor=white" />
+<img height="28" alt="AWS CloudWatch" src="https://img.shields.io/badge/AWS_CloudWatch-232F3E?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Structured Logging" src="https://img.shields.io/badge/Structured_Logging-334155?style=for-the-badge&logoColor=white" />
 </p>
 
 **AI & LLM**
@@ -131,8 +140,8 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 
 <p>
 <img height="28" alt="AWS Bedrock" src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="Groq API" src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="LLM Integration" src="https://img.shields.io/badge/LLM_Integration-6E56CF?style=for-the-badge&logoColor=white" />
+<img height="28" alt="Groq API" src="https://img.shields.io/badge/Groq_API-0F5C6B?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="LLM Integration" src="https://img.shields.io/badge/LLM_Integration-0F5C6B?style=for-the-badge&logoColor=white" />
 </p>
 
 **Tools**
@@ -148,31 +157,31 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 **Core CS**
 
 <p>
-<img height="28" alt="Data Structures and Algorithms" src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-37474F?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="Object-Oriented Programming" src="https://img.shields.io/badge/Object--Oriented_Programming-37474F?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="Software Design Principles" src="https://img.shields.io/badge/Software_Design_Principles-37474F?style=for-the-badge&logoColor=white" />
+<img height="28" alt="Data Structures and Algorithms" src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-334155?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Object-Oriented Programming" src="https://img.shields.io/badge/Object--Oriented_Programming-334155?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Software Design Principles" src="https://img.shields.io/badge/Software_Design_Principles-334155?style=for-the-badge&logoColor=white" />
 </p>
 
 <p>
-<img height="28" alt="Distributed Systems" src="https://img.shields.io/badge/Distributed_Systems-37474F?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="Microservices" src="https://img.shields.io/badge/Microservices-37474F?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="Cloud-Native Applications" src="https://img.shields.io/badge/Cloud--Native_Applications-37474F?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="Scalable Application Design" src="https://img.shields.io/badge/Scalable_Application_Design-37474F?style=for-the-badge&logoColor=white" />
+<img height="28" alt="Distributed Systems" src="https://img.shields.io/badge/Distributed_Systems-334155?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Microservices" src="https://img.shields.io/badge/Microservices-334155?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Cloud-Native Applications" src="https://img.shields.io/badge/Cloud--Native_Applications-334155?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Scalable Application Design" src="https://img.shields.io/badge/Scalable_Application_Design-334155?style=for-the-badge&logoColor=white" />
 </p>
 
 **Practices**
 
 <p>
-<img height="28" alt="Agile/Scrum" src="https://img.shields.io/badge/Agile%2FScrum-546E7A?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="Code Reviews" src="https://img.shields.io/badge/Code_Reviews-546E7A?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="28" alt="SDLC" src="https://img.shields.io/badge/SDLC-546E7A?style=for-the-badge&logoColor=white" />
+<img height="28" alt="Agile/Scrum" src="https://img.shields.io/badge/Agile%2FScrum-475569?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Code Reviews" src="https://img.shields.io/badge/Code_Reviews-475569?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="SDLC" src="https://img.shields.io/badge/SDLC-475569?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
 ### Professional Experience
 
-<img height="30" alt="Acuver Consulting" src="https://img.shields.io/badge/Acuver_Consulting-1F6F8B?style=for-the-badge&logoColor=white" />
+<img height="30" alt="Acuver Consulting" src="https://img.shields.io/badge/Acuver_Consulting-0F5C6B?style=for-the-badge&logoColor=white" />
 
 **Software Engineer** · Jan 2025 – Dec 2025 · Bengaluru, India
 
