@@ -17,11 +17,13 @@
 
 ## About Me
 
-Five years in IT: three-plus building backend and full-stack applications in Java, Spring Boot, and TypeScript at Wipro Limited and Acuver Consulting, and a year and a half in SQL-based fraud analysis at Amazon.
+I build backend systems that have to keep working when something outside them breaks.
 
-The engineering work has been integration-heavy — Spring Boot services talking to third-party APIs that fail in ways you don't control, and the retry, fallback, and failover logic that keeps them reliable anyway. Order rerouting, carrier integrations, claims processing, health monitoring.
+Five years in IT — three-plus as a software engineer at Wipro Limited and Acuver Consulting, and a year and a half in SQL-based fraud analysis at Amazon. Most of that work sat at the seams between systems: order management and same-day delivery, logistics and carrier integrations, healthcare claims processing, fraud detection. Spring Boot services calling third-party APIs I didn't control, where a vendor's outage turns into a customer's cancelled order.
 
-Now completing a Master of Applied Computer Science at Dalhousie University, focused on distributed architecture and cloud systems.
+So the interesting part was rarely the happy path. It was the kill switch that let a rollout be reversed one location at a time, the fallback that kept shipment creation alive when a carrier's API went down, and the rerouting logic that took vendor-caused cancellations from **~10% to under 1%**. I've also spent real time in the unglamorous half of the job — migrating a claims platform off a legacy BPM engine, containerizing what came out, then owning the Kubernetes rollouts and third-level production support afterwards.
+
+Now completing a Master of Applied Computer Science at Dalhousie University in Halifax, going deeper on distributed architecture, cloud infrastructure, and the operational side of shipping software.
 
 ## Current Focus
 
@@ -45,7 +47,7 @@ Deepening distributed systems and cloud architecture through the MACS program at
 
 Five years of supporting systems after release shapes how I build now. Every project below ships with infrastructure as code, CI on each pull request, security scanning, and tests that exercise the failure paths rather than just the happy one — because in production, the failure paths are the ones that get exercised.
 
-I'm looking for backend, platform, or DevOps work where reliability is part of the requirement rather than a follow-up ticket.
+I am looking for a strong team and a product where the job is not only to write code, but to understand complex systems, recover architecture, design internal tools, bring solutions to a working state, and leave a clear engineering base behind.
 
 ---
 
@@ -100,8 +102,7 @@ I'm looking for backend, platform, or DevOps work where reliability is part of t
 <img height="48" alt="Kubernetes" title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" />&nbsp;
 <img height="48" alt="Jenkins" title="Jenkins" src="https://skillicons.dev/icons?i=jenkins" />&nbsp;
 <img height="48" alt="GitHub Actions" title="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions" />&nbsp;
-<img height="48" alt="Terraform" title="Terraform" src="https://skillicons.dev/icons?i=terraform" />&nbsp;
-<img height="48" alt="Maven" title="Maven" src="https://skillicons.dev/icons?i=maven" />
+<img height="48" alt="Terraform" title="Terraform" src="https://skillicons.dev/icons?i=terraform" />
 </p>
 
 <p>
@@ -179,7 +180,8 @@ I'm looking for backend, platform, or DevOps work where reliability is part of t
 <img height="48" alt="Bitbucket" title="Bitbucket" src="https://skillicons.dev/icons?i=bitbucket" />&nbsp;
 <img height="48" alt="VS Code" title="VS Code" src="https://skillicons.dev/icons?i=vscode" />&nbsp;
 <img height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://skillicons.dev/icons?i=idea" />&nbsp;
-<img height="48" alt="Postman" title="Postman" src="https://skillicons.dev/icons?i=postman" />
+<img height="48" alt="Postman" title="Postman" src="https://skillicons.dev/icons?i=postman" />&nbsp;
+<img height="48" alt="Maven" title="Maven" src="https://skillicons.dev/icons?i=maven" />
 </p>
 
 <p>
