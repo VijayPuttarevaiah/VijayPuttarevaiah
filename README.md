@@ -2,53 +2,24 @@
 
 **Software Engineer — Java · Spring Boot · Microservices · AWS**
 
-Five years in IT: three-plus building backend and full-stack applications in Java, Spring Boot, and TypeScript at Wipro and Acuver Consulting, and a year and a half in SQL-based fraud analysis at Amazon. The engineering work was integration-heavy — Spring Boot services talking to third-party APIs that fail in ways you don't control, and the retry, fallback, and failover logic that keeps them reliable anyway.
-
-Now completing a Master of Applied Computer Science at Dalhousie University, Halifax, focused on distributed architecture and cloud systems.
-
 Halifax, NS · Eligible to work in Canada
 
 ---
 
-### Professional Work
+### About Me
 
-**Vendor failover for same-day delivery** · *Acuver Consulting, 2025*
-Rerouting system that automatically moves same-day orders between delivery vendors when one initiates a cancellation, shipped behind per-location kill switches for controlled rollout. Cut the client's vendor-caused cancellation rate from ~10% to under 1% of yearly online order volume.
-`Java` `Spring Boot` `Spring Security` `JWT` `Microservices` `AWS` `DynamoDB` `Kubernetes`
+Five years in IT: three-plus building backend and full-stack applications in Java, Spring Boot, and TypeScript at Wipro and Acuver Consulting, and a year and a half in SQL-based fraud analysis at Amazon.
 
-**Carrier management integrations** · *Acuver Consulting, 2025*
-Turnaround-time and waybill-generation APIs across four logistics carriers — scheduled polling for the three without webhook support, event-driven for the one that had it. Strategy pattern for swappable per-carrier logic, plus AWB-failure fallbacks so one carrier's outage never blocked shipment creation.
-`Java` `Spring Boot` `Spring WebFlux` `Spring Data JPA` `MongoDB` `React`
+The engineering work has been integration-heavy — Spring Boot services talking to third-party APIs that fail in ways you don't control, and the retry, fallback, and failover logic that keeps them reliable anyway. Order rerouting, carrier integrations, claims processing, health monitoring.
 
-**Claims platform modernization** · *Wipro, 2022–2024*
-Migrated real-time claims scrubbing off a legacy BPM platform, containerized the resulting Spring Boot services, and led the Kubernetes rollout across environments through Jenkins — cutting infrastructure cost 20%. Built the organization-wide health-check service from scratch.
-`Java` `Spring Boot` `OAuth 2.0` `MySQL` `Docker` `Kubernetes` `Jenkins`
+Now completing a Master of Applied Computer Science at Dalhousie University, focused on distributed architecture and cloud systems.
 
-**Fraud detection** · *Amazon, 2020–2022*
-Detection-tool features in Java and performance tuning on the existing pipeline, contributing to a 30% increase in fraud-detection accuracy.
-`Java` `SQL`
+### Current Focus
 
----
-
-### Projects
-
-**[Triage](https://github.com/VijayPuttarevaiah/triage) — Autonomous incident response**
-Detects, diagnoses, and remediates production incidents on a Spring Boot fintech workload. Ten Lambdas orchestrated through a Step Functions state machine, triggered by CloudWatch alarms. The model only ever *names* an action — a separate policy engine decides auto-remediate versus human approval, so the LLM never calls an AWS API directly. Sub-120s MTTR target, validated through built-in chaos endpoints. ~100 Terraform-managed resources, 16 least-privilege IAM roles, OIDC-federated CI/CD with no stored credentials.
-`AWS Bedrock` `Step Functions` `Lambda` `DynamoDB` `Terraform` `Python` `Spring Boot`
-
-**[MeetFocus](https://github.com/VijayPuttarevaiah/meetfocus) — Link-less video conferencing**
-Five Spring Boot microservices plus a FastAPI moderation service, coordinated over Kafka with Eureka discovery. Invites relay from Kafka straight into an attendee's open WebSocket session; chat routes through a toxicity classifier and back, blocking flagged messages before broadcast. Thread-safe telemetry engine validated against 150 parallel connections.
-`Java` `Spring Boot` `Kafka` `WebSocket` `Eureka` `FastAPI` `PostgreSQL` `Redis` `Docker`
-
-**[LEDGR](https://github.com/VijayPuttarevaiah/ledgr) — Personal finance and bill splitting**
-A user's share of any shared group expense flows into their personal ledger with no manual reconciliation. Row-Level Security at the database, zod as the server-side authorization boundary on every mutating route, and AI features behind a kill switch that re-verifies server-side regardless of client state. Semgrep SAST clean, OWASP ZAP findings resolved, 63 tests in CI including property-based fuzzing of the split-math invariant.
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `React Native` `Vitest` `Playwright`
-
-**[Recalibrate](https://github.com/VijayPuttarevaiah/recalibrate) — Adaptive goal tracking**
-Four-person team, largest individual contributor, owning CI/CD and code quality. GitLab CI through deployment to AWS EC2, Alembic-versioned MySQL schema, and DPy static design-smell detection as an enforced CI gate. LLM goal-detection built behind a provider-agnostic interface rather than a hardcoded integration.
-`Python` `FastAPI` `React` `MySQL` `Alembic` `GitLab CI` `AWS EC2` `Docker`
-
-**Open source** — Refactoring pull request to [Shopizer](https://github.com/shopizer-ecommerce/shopizer), an established Java e-commerce platform: strategy pattern replacing an if-else chain in payment processing, extracted shipping facade, consolidated mapper duplication. Zero new issues on the project's quality gate, full existing suite green. *Open for review.*
+- Open to **Software Development Co-op, Winter 2027**, across Canada
+- Building GenAI-integrated applications with AWS Bedrock, the Claude API, and Groq
+- Working toward **AWS Certified Solutions Architect – Associate** and **Claude Certified Architect – Foundations**
+- Deepening distributed systems and cloud architecture through the MACS program
 
 ---
 
@@ -88,7 +59,8 @@ Four-person team, largest individual contributor, owning CI/CD and code quality.
 <p>
 <img height="38" alt="React.js" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff"><img height="38" alt="Next.js" title="Next.js" src="https://cdn.simpleicons.org/nextdotjs/000000" /></picture>&nbsp;
-<img height="28" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img height="28" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;
+<img height="28" alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
 **Cloud & DevOps**
@@ -144,7 +116,7 @@ Four-person team, largest individual contributor, owning CI/CD and code quality.
 <p>
 <img height="38" alt="Grafana" title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />&nbsp;
 <img height="38" alt="Prometheus" title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />&nbsp;
-<img height="28" alt="AWS CloudWatch" src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logo=amazonwebservices&logoColor=white" />&nbsp;
+<img height="28" alt="AWS CloudWatch" src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logoColor=white" />&nbsp;
 <img height="28" alt="Structured Logging" src="https://img.shields.io/badge/Structured_Logging-2C3E50?style=for-the-badge&logoColor=white" />
 </p>
 
@@ -157,7 +129,7 @@ Four-person team, largest individual contributor, owning CI/CD and code quality.
 </p>
 
 <p>
-<img height="28" alt="AWS Bedrock" src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />&nbsp;
+<img height="28" alt="AWS Bedrock" src="https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logoColor=white" />&nbsp;
 <img height="28" alt="Groq API" src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white" />&nbsp;
 <img height="28" alt="LLM Integration" src="https://img.shields.io/badge/LLM_Integration-6E56CF?style=for-the-badge&logoColor=white" />
 </p>
@@ -172,18 +144,125 @@ Four-person team, largest individual contributor, owning CI/CD and code quality.
 <img height="38" alt="Confluence" title="Confluence" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" />
 </p>
 
-**Core CS & Practices**
+**Core CS**
 
-Data Structures & Algorithms · Object-Oriented Programming · Software Design Principles · Distributed Systems · Microservices · Cloud-Native Applications · Scalable Application Design · Agile/Scrum · Code Reviews · SDLC
+<p>
+<img height="28" alt="Data Structures and Algorithms" src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-37474F?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Object-Oriented Programming" src="https://img.shields.io/badge/Object--Oriented_Programming-37474F?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Software Design Principles" src="https://img.shields.io/badge/Software_Design_Principles-37474F?style=for-the-badge&logoColor=white" />
+</p>
+
+<p>
+<img height="28" alt="Distributed Systems" src="https://img.shields.io/badge/Distributed_Systems-37474F?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Microservices" src="https://img.shields.io/badge/Microservices-37474F?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Cloud-Native Applications" src="https://img.shields.io/badge/Cloud--Native_Applications-37474F?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Scalable Application Design" src="https://img.shields.io/badge/Scalable_Application_Design-37474F?style=for-the-badge&logoColor=white" />
+</p>
+
+**Practices**
+
+<p>
+<img height="28" alt="Agile/Scrum" src="https://img.shields.io/badge/Agile%2FScrum-546E7A?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="Code Reviews" src="https://img.shields.io/badge/Code_Reviews-546E7A?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="SDLC" src="https://img.shields.io/badge/SDLC-546E7A?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+### Professional Experience
+
+<img height="30" alt="Acuver Consulting" src="https://img.shields.io/badge/Acuver_Consulting-1F6F8B?style=for-the-badge&logoColor=white" />
+
+**Software Engineer** · Jan 2025 – Dec 2025 · Bengaluru, India
+
+#### Smart Order Rerouting · Jun 2025 – Dec 2025
+
+`Java` `Spring Boot` `Spring Security` `JWT` `JUnit 5` `Jenkins` `Confluence`
+
+- Designed and built a Java/Spring Boot order-rerouting service integrating the **DoorDash** and **Roadie** APIs to detect vendor cancellations, validate delivery capacity, and automatically book the nearest same-day delivery slot — reducing vendor-caused cancellations from **10% to under 1%**.
+- Raised **branch coverage to 85%** and **line coverage above 90%** with JUnit 5 suites wired into Jenkins CI/CD pipelines, and engineered configurable kill-switch logic for phased production rollouts.
+- Added error handling with fallback paths, retry logic, structured trace and debug logging, and Spring Security with JWT authentication across both integrations.
+- Created and reviewed technical design documents on Confluence, leading technical walkthroughs and stakeholder demos.
+- Used in-IDE AI coding assistants for boilerplate generation and code suggestions across this build and the carrier refactor below, **cutting development time by 30%**.
+
+#### Carrier Management Services + Aekyam iPaaS · Jan 2025 – May 2025
+
+`Java` `Spring Boot` `Spring WebFlux` `MongoDB` `React.js` `Redux`
+
+- Reduced new-carrier onboarding effort by **75%** by refactoring carrier-specific logic onto the **Strategy pattern** and extending Spring Boot Turnaround Time APIs across **BlueDart**, **Criticalog**, and **Delhivery**.
+- Developed a webhook-driven Delhivery integration for real-time shipment tracking and serviceability updates, eliminating scheduled polling for webhook-supported events.
+- Built and maintained an automated ETL pipeline to extract, validate, map, and transform order data into carrier-specific production formats across **8 carrier integrations**.
+- Wrote React.js components using Redux and Hooks for real-time package tracking and carrier management, including pagination for the Audit Service UI.
+
+<br/>
+
+<img height="30" alt="Wipro" src="https://img.shields.io/badge/Wipro-341F65?style=for-the-badge&logo=wipro&logoColor=white" />
+
+**Software Engineer** · Apr 2022 – Jul 2024 · Bengaluru, India
+
+#### Integrated Scrubbing Modernization · May 2022 – Jul 2024
+
+`Java` `Spring Boot` `OAuth 2.0` `MySQL` `Docker` `Kubernetes` `Jenkins` `JUnit 5`
+
+- Reduced infrastructure costs by **20%** by modernizing real-time claims scrubbing from a legacy IBM BPM platform to Edifecs, refactoring the scrubbing profiles and containerizing the Spring Boot applications with Docker.
+- Delivered **4 releases on schedule** across Development and Cert by leading Jenkins and Kubernetes deployments and providing third-level support for UAT and Production issues.
+- Cut post-release bugs by **25%** by raising code coverage to **85%** with JUnit 5, leading code reviews, and performing root-cause analysis on production issues.
+
+<br/>
+
+<img height="30" alt="Amazon" src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logoColor=white" />
+
+**Transaction Risk Investigator** · Sep 2020 – Apr 2022 · Bengaluru, India
+
+#### A to Z Claims · Sep 2020 – Apr 2022
+
+`Java` `SQL`
+
+- Analyzed fraudulent transaction patterns using SQL and communicated data-driven insights to stakeholders, contributing to a **30% improvement in fraud-detection accuracy**.
+- Completed Amazon's **ATLAS** technical upskilling program while collaborating with stakeholders to improve investigation SOPs.
+
+---
+
+### Projects
+
+**[Triage](https://github.com/VijayPuttarevaiah/triage) — Autonomous incident response**
+
+`AWS Bedrock` `Step Functions` `Lambda` `DynamoDB` `Terraform` `Python` `Spring Boot`
+
+Detects, diagnoses, and remediates production incidents on a Spring Boot fintech workload. **10 Lambda functions** orchestrated through a Step Functions state machine, triggered by CloudWatch alarms. The model only ever *names* an action — a separate policy engine decides auto-remediate versus human approval, so the LLM never calls an AWS API directly. **Sub-120-second MTTR** on the auto-approved path, validated through built-in chaos endpoints, on **~100 Terraform-managed resources** with OIDC-federated CI/CD and no stored credentials.
+
+**[MeetFocus](https://github.com/VijayPuttarevaiah/meetfocus) — Link-less video conferencing**
+
+`Java` `Spring Boot` `Kafka` `WebSocket` `Eureka` `FastAPI` `PostgreSQL` `Redis` `Docker`
+
+**5 Spring Boot microservices** plus a Python moderation service, coordinated over Apache Kafka with Eureka service discovery. Invites relay from Kafka straight into an attendee's open WebSocket session; chat routes through a toxicity classifier and back, blocking flagged messages before broadcast. Validated through concurrency testing simulating **150 parallel attendee connections**.
+
+**[LEDGR](https://github.com/VijayPuttarevaiah/ledgr) — Personal finance and bill splitting**
+
+`Next.js` `TypeScript` `PostgreSQL` `React Native` `Vitest` `Playwright`
+
+A user's share of any shared group expense flows into their personal ledger with no manual reconciliation. **22+ REST API routes** and a **63-test Vitest suite** covering unit, integration, and end-to-end testing. Claude and Google Cloud Vision power categorization and receipt OCR behind a server-side kill switch that re-verifies every route independently and auto-disables AI features via a monthly spend cap.
+
+**[Recalibrate](https://github.com/VijayPuttarevaiah/recalibrate) — Adaptive goal tracking**
+
+`Python` `FastAPI` `React` `MySQL` `Alembic` `GitLab CI` `AWS EC2` `Docker`
+
+Four-person team project where I was the largest individual contributor, owning CI/CD and code quality. GitLab CI through deployment to AWS EC2, Alembic-versioned MySQL schema, and DPy static design-smell detection as an enforced CI gate. LLM goal-detection built behind a provider-agnostic interface rather than a hardcoded integration.
+
+**Open source** — Refactoring pull request to [Shopizer](https://github.com/shopizer-ecommerce/shopizer), an established Java e-commerce platform: **8 refactoring techniques** including a strategy pattern replacing an if-else chain in payment processing, an extracted shipping facade, and consolidated mapper duplication. Passed the project's quality gate with **zero new issues**. *Open for review.*
 
 ---
 
 ### Education & Certifications
 
 **Master of Applied Computer Science** — Dalhousie University, Halifax · Jan 2026 – Apr 2027 · GPA 3.88/4.30
-**B.E. Electrical & Electronics Engineering** — National Institute of Engineering, Mysuru
+**B.E. Electrical & Electronics Engineering** — National Institute of Engineering, Mysuru · Aug 2015 – Jul 2019
 
-AWS Certified AI Practitioner · AWS Certified Cloud Practitioner
+<p>
+<img height="28" alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="28" alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logoColor=white" />
+</p>
+
 *In progress* — AWS Certified Solutions Architect – Associate · Claude Certified Architect – Foundations
 
 ---
