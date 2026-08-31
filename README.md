@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Vijay Puttarevaiah — Backend, DevOps, Cloud" width="100%" />
+  <img alt="Vijay Puttarevaiah" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3500&pause=1200&color=37B7C3&center=true&vCenter=true&width=820&height=70&lines=Vijay+Puttarevaiah" />
+</p>
+
+<p align="center">
+  <img src="assets/banner.png" alt="Software Engineer, Cloud, DevOps, Exploring AI and ML" width="100%" />
 </p>
 
 <p align="center">
