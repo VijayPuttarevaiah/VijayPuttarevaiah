@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="LINKEDIN_URL_HERE"><img height="32" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>&nbsp;
+  <a href="https://linkedin.com/in/vijayputtarevaiah"><img height="32" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>&nbsp;
   <a href="mailto:vijayputtarevaiah@gmail.com"><img height="32" alt="Email" src="https://img.shields.io/badge/Email-232F3E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -17,7 +17,7 @@
 
 ## About Me
 
-Five years in IT: three-plus building backend and full-stack applications in Java, Spring Boot, and TypeScript at Wipro and Acuver Consulting, and a year and a half in SQL-based fraud analysis at Amazon.
+Five years in IT: three-plus building backend and full-stack applications in Java, Spring Boot, and TypeScript at Wipro Limited and Acuver Consulting, and a year and a half in SQL-based fraud analysis at Amazon.
 
 The engineering work has been integration-heavy — Spring Boot services talking to third-party APIs that fail in ways you don't control, and the retry, fallback, and failover logic that keeps them reliable anyway. Order rerouting, carrier integrations, claims processing, health monitoring.
 
@@ -199,7 +199,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University, foc
 ## Professional Experience
 
 <p>
-<img height="36" alt="Acuver Consulting" src="https://img.shields.io/badge/Acuver_Consulting-0F5C6B?style=for-the-badge&logoColor=white" />&nbsp;
+<a href="https://acuverconsulting.com"><img height="36" alt="Acuver Consulting Private Limited" src="https://img.shields.io/badge/Acuver_Consulting-0F5C6B?style=for-the-badge&logoColor=white" /></a>&nbsp;
 <img height="36" alt="Software Engineer" src="https://img.shields.io/badge/Software_Engineer-B45309?style=for-the-badge&logoColor=white" />
 </p>
 
@@ -215,9 +215,9 @@ Jan 2025 – Dec 2025 · Bengaluru, India
 - Created and reviewed technical design documents on Confluence, leading technical walkthroughs and stakeholder demos.
 - Used in-IDE AI coding assistants for boilerplate generation and code suggestions across this build and the carrier refactor below, **cutting development time by 30%**.
 
-### Carrier Management Services + Aekyam iPaaS · Jan 2025 – May 2025
+### Carrier Management Services + [Aekyam](https://aekyam.com) iPaaS · Jan 2025 – May 2025
 
-`Java` `Spring Boot` `Spring WebFlux` `MongoDB` `React.js` `Redux`
+`Java` `Spring Boot` `MongoDB` `React.js` `Redux`
 
 - Reduced new-carrier onboarding effort by **75%** by refactoring carrier-specific logic onto the **Strategy pattern** and extending Spring Boot Turnaround Time APIs across **BlueDart**, **Criticalog**, and **Delhivery**.
 - Developed a webhook-driven Delhivery integration for real-time shipment tracking and serviceability updates, eliminating scheduled polling for webhook-supported events.
@@ -227,7 +227,7 @@ Jan 2025 – Dec 2025 · Bengaluru, India
 <br/>
 
 <p>
-<img height="36" alt="Wipro" src="https://img.shields.io/badge/Wipro-341F65?style=for-the-badge&logo=wipro&logoColor=white" />&nbsp;
+<a href="https://www.wipro.com"><img height="36" alt="Wipro Limited" src="https://img.shields.io/badge/Wipro_Limited-341F65?style=for-the-badge&logo=wipro&logoColor=white" /></a>&nbsp;
 <img height="36" alt="Software Engineer" src="https://img.shields.io/badge/Software_Engineer-B45309?style=for-the-badge&logoColor=white" />
 </p>
 
@@ -285,7 +285,7 @@ A user's share of any shared group expense flows into their personal ledger with
 
 Four-person team project where I was the largest individual contributor, owning CI/CD and code quality. GitLab CI through deployment to AWS EC2, Alembic-versioned MySQL schema, and DPy static design-smell detection as an enforced CI gate. LLM goal-detection built behind a provider-agnostic interface rather than a hardcoded integration.
 
-**Open source** — Refactoring pull request to [Shopizer](https://github.com/shopizer-ecommerce/shopizer), an established Java e-commerce platform: **8 refactoring techniques** including a strategy pattern replacing an if-else chain in payment processing, an extracted shipping facade, and consolidated mapper duplication. Passed the project's quality gate with **zero new issues**. *Open for review.*
+**Open source** — Refactoring pull request to [Shopizer](https://github.com/shopizer-ecommerce/shopizer), an established Java e-commerce platform: **8 refactoring techniques** including a strategy pattern replacing an if-else chain in payment processing, an extracted shipping facade, and consolidated mapper duplication. Passed the project's quality gate with **zero new issues**. [PR #1094](https://github.com/shopizer-ecommerce/shopizer/pull/1094) — open for review.
 
 ---
 
@@ -305,4 +305,4 @@ Four-person team project where I was the largest individual contributor, owning 
 
 ## Contact
 
-[LinkedIn](LINKEDIN_URL_HERE) · [vijayputtarevaiah@gmail.com](mailto:vijayputtarevaiah@gmail.com)
+[LinkedIn](https://linkedin.com/in/vijayputtarevaiah) · [vijayputtarevaiah@gmail.com](mailto:vijayputtarevaiah@gmail.com)
