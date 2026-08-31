@@ -273,7 +273,7 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 `Java` `SQL`
 
 - Analyzed fraudulent transaction patterns using SQL and communicated data-driven insights to stakeholders, contributing to a **30% improvement in fraud-detection accuracy**.
-- Completed Amazon's **ATLAS** technical upskilling program while collaborating with stakeholders to improve investigation SOPs.
+- Participated in **ATLAS**, Amazon's internal technical upskilling program for employees, while collaborating with stakeholders to improve investigation SOPs.
 
 ---
 
@@ -310,6 +310,7 @@ Four-person team project where I was the largest individual contributor, owning 
 ## Education
 
 **Master of Applied Computer Science** — Dalhousie University, Halifax · Jan 2026 – Apr 2027
+
 **B.E. Electrical & Electronics Engineering** — National Institute of Engineering, Mysuru · Aug 2015 – Jul 2019
 
 ---
