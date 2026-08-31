@@ -17,13 +17,13 @@
 
 ## About Me
 
-**Backend engineer. Five years at Amazon, Wipro Limited, and Acuver Consulting — all of it on systems where failure had an immediate, measurable cost.**
+**Backend engineer. Five years at Amazon, Wipro Limited, and Acuver Consulting, all of it on systems where failure had an immediate, measurable cost.**
 
-Same-day delivery orders that cancel when a courier's API goes down. Healthcare claims that stop clearing when a scrubbing engine stalls. Fraudulent transactions that slip through while detection lags. Three industries, and the same lesson three different ways: writing the feature is the easy part — a system is only as good as what it does on its worst day.
+Same-day delivery orders that cancel when a courier's API goes down. Healthcare claims that stop clearing when a scrubbing engine stalls. Fraudulent transactions that slip through while detection lags. Three industries, and the same lesson three different ways: writing the feature is the easy part. A system is only as good as what it does on its worst day.
 
 So that's what I build for. Java and Spring Boot services at the seams between systems, with the failover, kill switches, retries, and monitoring that keep them standing when a dependency doesn't. Best result: rerouting logic that took vendor-caused order cancellations from **~10% to under 1%**.
 
-Now completing a Master of Applied Computer Science at Dalhousie University in Halifax — and building the same way in public: infrastructure as code, CI on every pull request, and chaos tests that break things on purpose.
+Now completing a Master of Applied Computer Science at Dalhousie University in Halifax, and building the same way in public: infrastructure as code, CI on every pull request, and chaos tests that break things on purpose.
 
 ## Current Focus
 
