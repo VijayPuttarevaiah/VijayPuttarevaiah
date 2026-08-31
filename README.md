@@ -2,7 +2,7 @@
 
 **Software Engineer — Java · Spring Boot · Microservices · AWS**
 
-Five years building production backend systems: order management and logistics integrations at Acuver Consulting, healthcare claims infrastructure at Wipro, and fraud-detection tooling at Amazon. The work was integration-heavy — Spring Boot services talking to third-party APIs that fail in ways you don't control, and the retry, fallback, and failover logic that keeps them reliable anyway.
+Five years in IT: three-plus building backend and full-stack applications in Java, Spring Boot, and TypeScript at Wipro and Acuver Consulting, and a year and a half in SQL-based fraud analysis at Amazon. The engineering work was integration-heavy — Spring Boot services talking to third-party APIs that fail in ways you don't control, and the retry, fallback, and failover logic that keeps them reliable anyway.
 
 Now completing a Master of Applied Computer Science at Dalhousie University, Halifax, focused on distributed architecture and cloud systems.
 
@@ -54,15 +54,107 @@ Four-person team, largest individual contributor, owning CI/CD and code quality.
 
 ### Technology
 
-**Production, daily** — Java · Spring Boot · Spring MVC · Spring WebFlux · Spring Data JPA · Microservices · REST APIs · Spring Security · JWT · OAuth 2.0 · Docker · Kubernetes · Jenkins · Git
+*Hover any icon for its name.*
 
-**Cloud & infrastructure** — AWS (Lambda, Step Functions, ECS Fargate, EC2, DynamoDB, S3, SNS, SQS, API Gateway, EventBridge, CloudWatch, IAM, VPC, Bedrock) · Terraform · Kafka · Redis · GitHub Actions · GitLab CI
+**Languages**
 
-**Data** — PostgreSQL · MySQL · MongoDB · DynamoDB
+<p>
+<img height="38" alt="Java" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />&nbsp;
+<img height="38" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
+<img height="38" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
+<img height="38" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
+<img height="38" alt="MySQL" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
+<img height="38" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
+<img height="38" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</p>
 
-**Frontend** — React · Next.js · Redux · TypeScript · React Native
+**Backend & APIs**
 
-**Also work with** — Python · FastAPI · JUnit · Mockito · pytest · Vitest · Hibernate · Postman
+<p>
+<img height="38" alt="Spring Boot" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />&nbsp;
+<img height="38" alt="Hibernate" title="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />&nbsp;
+<img height="38" alt="Django" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />&nbsp;
+<img height="38" alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />&nbsp;
+<img height="38" alt="GraphQL" title="GraphQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
+</p>
+
+Spring MVC · Spring Security · Spring Data JPA · REST APIs
+
+**Frontend**
+
+<p>
+<img height="38" alt="React" title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff"><img height="38" alt="Next.js" title="Next.js" src="https://cdn.simpleicons.org/nextdotjs/000000" /></picture>&nbsp;
+<img height="38" alt="React Native" title="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</p>
+
+**Cloud & DevOps**
+
+<p>
+<img height="38" alt="AWS" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;
+<img height="38" alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />&nbsp;
+<img height="38" alt="Kubernetes" title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />&nbsp;
+<img height="38" alt="Jenkins" title="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />&nbsp;
+<img height="38" alt="Terraform" title="Terraform" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />&nbsp;
+<img height="38" alt="Maven" title="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />&nbsp;
+<img height="38" alt="Linux" title="Linux" src="https://cdn.simpleicons.org/linux/FCC624" />
+</p>
+
+CI/CD · Continuous Delivery
+
+**Databases**
+
+<p>
+<img height="38" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />&nbsp;
+<img height="38" alt="MySQL" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
+<img height="38" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&nbsp;
+<img height="38" alt="DynamoDB" title="DynamoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dynamodb/dynamodb-original.svg" />
+</p>
+
+H2
+
+**Testing**
+
+<p>
+<img height="38" alt="JUnit 5" title="JUnit 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />&nbsp;
+<img height="38" alt="Vitest" title="Vitest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />&nbsp;
+<img height="38" alt="Pytest" title="Pytest" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" />
+</p>
+
+Mockito · Unit, Integration & End-to-End Testing · TDD
+
+**Observability**
+
+<p>
+<img height="38" alt="Grafana" title="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />&nbsp;
+<img height="38" alt="Prometheus" title="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
+</p>
+
+AWS CloudWatch · Structured Logging
+
+**AI & LLM**
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/claude/ffffff"><img height="38" alt="Anthropic Claude API" title="Anthropic Claude API" src="https://cdn.simpleicons.org/claude/000000" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/githubcopilot/ffffff"><img height="38" alt="GitHub Copilot" title="GitHub Copilot" src="https://cdn.simpleicons.org/githubcopilot/000000" /></picture>&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cursor/ffffff"><img height="38" alt="Cursor" title="Cursor" src="https://cdn.simpleicons.org/cursor/000000" /></picture>
+</p>
+
+AWS Bedrock · Groq API · LLM Integration
+
+**Tools**
+
+<p>
+<img height="38" alt="Git" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"><img height="38" alt="GitHub" title="GitHub" src="https://cdn.simpleicons.org/github/181717" /></picture>&nbsp;
+<img height="38" alt="GitLab" title="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />&nbsp;
+<img height="38" alt="Bitbucket" title="Bitbucket" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" />&nbsp;
+<img height="38" alt="Confluence" title="Confluence" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" />
+</p>
+
+**Core CS & Practices**
+
+Data Structures & Algorithms · Object-Oriented Programming · Software Design Principles · Distributed Systems · Microservices · Cloud-Native Applications · Scalable Application Design · Agile/Scrum · Code Reviews · SDLC
 
 ---
 
