@@ -17,13 +17,13 @@
 
 ## About Me
 
-I build backend systems that have to keep working when something outside them breaks.
+**Every system I've worked on had a real cost of failure.**
 
-Five years in IT — three-plus as a software engineer at Wipro Limited and Acuver Consulting, and a year and a half in SQL-based fraud analysis at Amazon. Most of that work sat at the seams between systems: order management and same-day delivery, logistics and carrier integrations, healthcare claims processing, fraud detection. Spring Boot services calling third-party APIs I didn't control, where a vendor's outage turns into a customer's cancelled order.
+Same-day delivery orders that cancel when a courier's API goes down. Healthcare claims that stop clearing when a scrubbing engine stalls. Fraudulent transactions that slip through while detection lags. Five years across Amazon, Wipro Limited, and Acuver Consulting taught me the same lesson three different ways: writing the feature is the easy part — a system is only as good as what it does on its worst day.
 
-So the interesting part was rarely the happy path. It was the kill switch that let a rollout be reversed one location at a time, the fallback that kept shipment creation alive when a carrier's API went down, and the rerouting logic that took vendor-caused cancellations from **~10% to under 1%**. I've also spent real time in the unglamorous half of the job — migrating a claims platform off a legacy BPM engine, containerizing what came out, then owning the Kubernetes rollouts and third-level production support afterwards.
+So that's what I build for. Java and Spring Boot services at the seams between systems, with the failover, kill switches, retries, and monitoring that keep them standing when a dependency doesn't. Best result: rerouting logic that took vendor-caused order cancellations from **~10% to under 1%**.
 
-Now completing a Master of Applied Computer Science at Dalhousie University in Halifax, going deeper on distributed architecture, cloud infrastructure, and the operational side of shipping software.
+Now completing a Master of Applied Computer Science at Dalhousie University in Halifax — and building the same way in public: infrastructure as code, CI on every pull request, and chaos tests that break things on purpose.
 
 ## Current Focus
 
