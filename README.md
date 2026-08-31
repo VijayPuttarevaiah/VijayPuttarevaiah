@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Vijay Puttarevaiah" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3500&pause=1200&color=A8D89A&center=true&vCenter=true&width=820&height=70&lines=Vijay+Puttarevaiah" />
+  <img alt="Vijay Puttarevaiah" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=3500&pause=1200&color=22D3EE&center=true&vCenter=true&width=820&height=70&lines=Vijay+Puttarevaiah" />
 </p>
 
 <p align="center">
