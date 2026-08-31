@@ -1,13 +1,11 @@
-<p align="center">
-  <img alt="Hi, I'm Vijay" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&duration=3500&pause=1200&color=2E90E8&center=true&vCenter=true&width=820&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Vijay" />
-</p>
+<h1 align="center">Hi &#128075;, I'm Vijay</h1>
 
 <p align="center">
   <img src="assets/banner.png" alt="Software Engineer, Cloud, DevOps, Exploring AI and ML" width="100%" />
 </p>
 
 <p align="center">
-  Open to Relocate &nbsp;·&nbsp; Eligible to work in Canada
+  <img alt="Open to Relocate · Eligible to work in Canada" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=2EA043&center=true&vCenter=true&width=700&height=45&lines=Open+to+Relocate+%C2%B7+Eligible+to+work+in+Canada" />
 </p>
 
 <p align="center">
