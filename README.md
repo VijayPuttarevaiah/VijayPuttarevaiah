@@ -15,7 +15,7 @@
 
 ---
 
-## About Me
+## 👤 About Me
 
 **Backend engineer. Five years at Amazon, Wipro Limited, and Acuver Consulting, all of it on systems where failure had an immediate, measurable cost.**
 
@@ -23,12 +23,13 @@ Same-day delivery orders that cancel when a courier's API goes down. Healthcare 
 
 So that's what I build for. Java and Spring Boot services at the seams between systems, with the failover, kill switches, retries, and monitoring that keep them standing when a dependency doesn't.
 
-> ### Best result
+> <img height="30" alt="Best result" src="https://img.shields.io/badge/BEST_RESULT-2EA043?style=for-the-badge&logoColor=white" />
+>
 > Rerouting logic that took vendor-caused order cancellations from **~10% to under 1%** for **BJ's Wholesale Club**, protecting **millions in annual revenue** by preventing customer refunds.
 
 Now completing a Master of Applied Computer Science at Dalhousie University in Halifax, and building the same way in public: infrastructure as code, CI on every pull request, and chaos tests that break things on purpose.
 
-## Current Focus
+## 🎯 Current Focus
 
 - Open to **Software Development Co-op, Winter 2027**, across Canada
 - Working toward **AWS Certified Solutions Architect – Associate**
@@ -54,9 +55,9 @@ I am looking for a strong team and a product where the job is not only to write 
 
 ---
 
-## Technical Skills
+## 🛠️ Technical Skills
 
-### Languages
+### 💻 Languages
 
 <p>
 <img height="48" alt="Java" title="Java" src="https://skillicons.dev/icons?i=java" />&nbsp;
@@ -68,7 +69,7 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="32" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" />
 </p>
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 
 <p>
 <img height="48" alt="Spring Boot" title="Spring Boot" src="https://skillicons.dev/icons?i=spring" />&nbsp;
@@ -85,7 +86,7 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="32" alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img height="48" alt="React.js" title="React.js" src="https://skillicons.dev/icons?i=react" />&nbsp;
@@ -97,7 +98,7 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="32" alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 </p>
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <p>
 <img height="48" alt="AWS" title="AWS" src="https://skillicons.dev/icons?i=aws" />&nbsp;
@@ -112,14 +113,14 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="32" alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logoColor=white" />
 </p>
 
-### Operating Systems
+### 🖥️ Operating Systems
 
 <p>
 <img height="48" alt="Linux" title="Linux" src="https://skillicons.dev/icons?i=linux" />&nbsp;
 <img height="48" alt="Windows" title="Windows" src="https://skillicons.dev/icons?i=windows" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
 <p>
 <img height="48" alt="PostgreSQL" title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />&nbsp;
@@ -133,7 +134,7 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="32" alt="H2" src="https://img.shields.io/badge/H2-1021AF?style=for-the-badge&logoColor=white" />
 </p>
 
-### Testing
+### 🧪 Testing
 
 <p>
 <img height="32" alt="JUnit 5" src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />&nbsp;
@@ -148,7 +149,7 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="32" alt="Unit, Integration and E2E" src="https://img.shields.io/badge/Unit_%7C_Integration_%7C_E2E-00A8A8?style=for-the-badge&logoColor=white" />
 </p>
 
-### Observability
+### 📈 Observability
 
 <p>
 <img height="48" alt="Grafana" title="Grafana" src="https://skillicons.dev/icons?i=grafana" />&nbsp;
@@ -160,7 +161,7 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="32" alt="Structured Logging" src="https://img.shields.io/badge/Structured_Logging-5C6BC0?style=for-the-badge&logoColor=white" />
 </p>
 
-### AI & LLM
+### 🤖 AI & LLM
 
 <p>
 <img height="32" alt="Anthropic Claude API" src="https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white" />&nbsp;
@@ -174,7 +175,7 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="32" alt="LLM Integration" src="https://img.shields.io/badge/LLM_Integration-6E56CF?style=for-the-badge&logoColor=white" />
 </p>
 
-### Tools
+### 🧰 Tools
 
 <p>
 <img height="48" alt="Git" title="Git" src="https://skillicons.dev/icons?i=git" />&nbsp;
@@ -192,7 +193,7 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="32" alt="PuTTY" src="https://img.shields.io/badge/PuTTY-5A5A5A?style=for-the-badge&logoColor=white" />
 </p>
 
-### Core CS
+### 📐 Core CS
 
 <p>
 <img height="32" alt="Data Structures and Algorithms" src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-1D4ED8?style=for-the-badge&logoColor=white" />&nbsp;
@@ -207,7 +208,7 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="32" alt="Scalable Application Design" src="https://img.shields.io/badge/Scalable_Application_Design-4F46E5?style=for-the-badge&logoColor=white" />
 </p>
 
-### Practices
+### 🔄 Practices
 
 <p>
 <img height="32" alt="Agile/Scrum" src="https://img.shields.io/badge/Agile%2FScrum-B45309?style=for-the-badge&logoColor=white" />&nbsp;
@@ -217,7 +218,7 @@ I am looking for a strong team and a product where the job is not only to write 
 
 ---
 
-## Professional Experience
+## 💼 Professional Experience
 
 <p>
 <a href="https://acuverconsulting.com"><img height="36" alt="Acuver Consulting Private Limited" src="https://img.shields.io/badge/Acuver_Consulting-0F5C6B?style=for-the-badge&logoColor=white" /></a>&nbsp;
@@ -226,7 +227,7 @@ I am looking for a strong team and a product where the job is not only to write 
 
 Jan 2025 – Dec 2025 · Bengaluru, India
 
-### Smart Order Rerouting · Jun 2025 – Dec 2025
+### 🔹 Smart Order Rerouting · Jun 2025 – Dec 2025
 
 Client: [BJ's Wholesale Club](https://www.bjs.com)
 
@@ -238,7 +239,7 @@ Client: [BJ's Wholesale Club](https://www.bjs.com)
 - Created and reviewed technical design documents on Confluence, leading technical walkthroughs and stakeholder demos.
 - Used in-IDE AI coding assistants for boilerplate generation and code suggestions across this build and the carrier refactor below, **cutting development time by 30%**.
 
-### Carrier Management Services + [Aekyam](https://aekyam.com) iPaaS · Jan 2025 – May 2025
+### 🔹 Carrier Management Services + [Aekyam](https://aekyam.com) iPaaS · Jan 2025 – May 2025
 
 `Java` `Spring Boot` `MongoDB` `React.js` `Redux`
 
@@ -256,7 +257,7 @@ Client: [BJ's Wholesale Club](https://www.bjs.com)
 
 Apr 2022 – Jul 2024 · Bengaluru, India
 
-### Integrated Scrubbing Modernization · May 2022 – Jul 2024
+### 🔹 Integrated Scrubbing Modernization · May 2022 – Jul 2024
 
 `Java` `Spring Boot` `OAuth 2.0` `MySQL` `Docker` `Kubernetes` `Jenkins` `JUnit 5`
 
@@ -274,7 +275,7 @@ Apr 2022 – Jul 2024 · Bengaluru, India
 
 Sep 2020 – Apr 2022 · Bengaluru, India
 
-### A to Z Claims · Sep 2020 – Apr 2022
+### 🔹 A to Z Claims · Sep 2020 – Apr 2022
 
 `Java` `SQL`
 
@@ -283,7 +284,7 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 
 ---
 
-## Projects
+## 📦 Projects
 
 **[Triage](https://github.com/VijayPuttarevaiah/triage) — Autonomous Incident Response & Self-Healing Infrastructure**
 
@@ -313,7 +314,7 @@ Four-person team project where I was the largest individual contributor, owning 
 
 ---
 
-## Education
+## 🎓 Education
 
 **Master of Applied Computer Science** — Dalhousie University, Halifax · Jan 2026 – Apr 2027
 
@@ -321,7 +322,7 @@ Four-person team project where I was the largest individual contributor, owning 
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 <p>
 <img height="32" alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logoColor=white" />&nbsp;
@@ -332,6 +333,6 @@ Four-person team project where I was the largest individual contributor, owning 
 
 ---
 
-## Contact
+## 📫 Contact
 
 [LinkedIn](https://linkedin.com/in/vijayputtarevaiah) · [vijayputtarevaiah@gmail.com](mailto:vijayputtarevaiah@gmail.com)
