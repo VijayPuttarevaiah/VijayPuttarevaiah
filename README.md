@@ -21,7 +21,10 @@
 
 Same-day delivery orders that cancel when a courier's API goes down. Healthcare claims that stop clearing when a scrubbing engine stalls. Fraudulent transactions that slip through while detection lags. Three industries, and the same lesson three different ways: writing the feature is the easy part. A system is only as good as what it does on its worst day.
 
-So that's what I build for. Java and Spring Boot services at the seams between systems, with the failover, kill switches, retries, and monitoring that keep them standing when a dependency doesn't. Best result: rerouting logic that took vendor-caused order cancellations from **~10% to under 1%**.
+So that's what I build for. Java and Spring Boot services at the seams between systems, with the failover, kill switches, retries, and monitoring that keep them standing when a dependency doesn't.
+
+> ### Best result
+> Rerouting logic that took vendor-caused order cancellations from **~10% to under 1%** for **BJ's Wholesale Club**, protecting **millions in annual revenue** by preventing customer refunds.
 
 Now completing a Master of Applied Computer Science at Dalhousie University in Halifax, and building the same way in public: infrastructure as code, CI on every pull request, and chaos tests that break things on purpose.
 
@@ -225,9 +228,11 @@ Jan 2025 – Dec 2025 · Bengaluru, India
 
 ### Smart Order Rerouting · Jun 2025 – Dec 2025
 
+Client: [BJ's Wholesale Club](https://www.bjs.com)
+
 `Java` `Spring Boot` `Spring Security` `JWT` `JUnit 5` `Jenkins` `Confluence`
 
-- Designed and built a Java/Spring Boot order-rerouting service integrating the **DoorDash** and **Roadie** APIs to detect vendor cancellations, validate delivery capacity, and automatically book the nearest same-day delivery slot — reducing vendor-caused cancellations from **10% to under 1%**.
+- Designed and built a Java/Spring Boot order-rerouting service integrating the **DoorDash** and **Roadie** APIs to detect vendor cancellations, validate delivery capacity, and automatically book the nearest same-day delivery slot, reducing vendor-caused cancellations from **10% to under 1%** and protecting **millions in annual revenue** by preventing customer refunds.
 - Raised **branch coverage to 85%** and **line coverage above 90%** with JUnit 5 suites wired into Jenkins CI/CD pipelines, and engineered configurable kill-switch logic for phased production rollouts.
 - Added error handling with fallback paths, retry logic, structured trace and debug logging, and Spring Security with JWT authentication across both integrations.
 - Created and reviewed technical design documents on Confluence, leading technical walkthroughs and stakeholder demos.
