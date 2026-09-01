@@ -19,7 +19,7 @@ Nearly all of it on systems where failure had an immediate, measurable cost. Sam
 
 So that's what I build for. Java and Spring Boot services at the seams between systems, with the failover, kill switches, retries, and monitoring that keep them standing when a dependency doesn't.
 
-Now completing a Master of Applied Computer Science at Dalhousie University in Halifax, and building the same way in public: infrastructure as code, CI on every pull request, and chaos tests that break things on purpose.
+Now completing a Master of Applied Computer Science at Dalhousie University in Halifax.
 
 ---
 
