@@ -33,19 +33,6 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 - Orchestrated **10 AWS Lambda functions** through a Step Functions state machine, hitting **sub-120-second MTTR** on the auto-approved path across **~100 Terraform-managed resources**.
 - Kept the model from acting directly: Bedrock only names an action, while a separate policy engine decides whether to auto-execute it or route it to a human.
 
-```mermaid
-flowchart TD
-    A[CloudWatch Alarm] --> B[EventBridge]
-    B --> C[Step Functions]
-    C --> D[Evidence Collection]
-    D --> E[Bedrock Diagnosis]
-    E --> F{Policy Engine}
-    F -->|auto-approved| G[Remediation]
-    F -->|high risk| H[Human Approval]
-    H --> G
-    G --> I[Verification]
-```
-
 **[MeetFocus](https://github.com/VijayPuttarevaiah/meetfocus) — Link-Less Video Conferencing Platform**
 
 `Java` `Spring Boot` `Kafka` `WebSocket` `Eureka` `FastAPI` `PostgreSQL` `Redis` `Docker`
@@ -53,26 +40,6 @@ flowchart TD
 - Designed a link-less video conferencing platform from **5 Spring Boot microservices** and a Python moderation service, connected through Apache Kafka with Eureka handling service discovery.
 - Shipped real-time meeting invitations over WebSocket, and routed chat through Kafka to a toxicity classifier and back, blocking flagged content before broadcast.
 - Validated scalability and reliability through concurrency testing simulating **150 parallel attendee connections**.
-
-```mermaid
-flowchart LR
-    CL[Client] --> GW[Gateway Service]
-    GW --> US[User Service]
-    GW --> MS[Meeting Service]
-    GW --> SG[Signaling Service]
-    MS --> KF{{Apache Kafka}}
-    KF --> SG
-    KF --> MD[Moderation Service<br/>Python FastAPI]
-    MD --> KF
-    SG --> WS[WebSocket Sessions]
-    US --> PG[(PostgreSQL)]
-    MS --> PG
-    SG --> RD[(Redis)]
-    US -.register.-> EU[Eureka Discovery]
-    MS -.register.-> EU
-    SG -.register.-> EU
-    GW -.resolve.-> EU
-```
 
 **[Recalibrate](https://github.com/VijayPuttarevaiah/recalibrate) — AI-Assisted Adaptive Goal Planner**
 
