@@ -19,9 +19,9 @@ Nearly all of it on systems where failure had an immediate, measurable cost. Sam
 
 So that's what I build for. Java and Spring Boot services at the seams between systems, with the failover, kill switches, retries, and monitoring that keep them standing when a dependency doesn't.
 
-> <img height="30" alt="Best result" src="https://img.shields.io/badge/BEST_RESULT-2EA043?style=for-the-badge&logoColor=white" />
+> **Best result**
 >
-> Rerouting logic that took vendor-caused order cancellations from **~10% to under 1%** for **BJ's Wholesale Club**, protecting **millions in annual revenue** by preventing customer refunds.
+> Rerouting logic that took vendor-caused order cancellations from **~10% to under 1%** for **BJ's Wholesale Club**, reducing customer refunds and improving same-day delivery reliability.
 
 Now completing a Master of Applied Computer Science at Dalhousie University in Halifax, and building the same way in public: infrastructure as code, CI on every pull request, and chaos tests that break things on purpose.
 
