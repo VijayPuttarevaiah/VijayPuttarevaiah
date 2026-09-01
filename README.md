@@ -25,9 +25,13 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 ## 🎯 Current Focus
 
-- **Distributed systems** — service decomposition, event-driven messaging, and the failure modes that only appear across a network boundary
-- **Cloud architecture** — AWS and infrastructure as code with Terraform, working toward well-architected system design
-- **Reliability engineering** — monitoring, incident response, and systems designed to fail gracefully
+- **Distributed Systems** — designing services around clear boundaries, asynchronous communication, and failure modes that emerge across networked systems.
+- **Event-Driven Microservices** — building loosely coupled backend systems with asynchronous messaging, event propagation, retries, idempotency, and resilient integration patterns.
+- **Cloud Architecture** — designing AWS-based systems with Terraform, infrastructure as code, and well-architected deployment patterns.
+- **Reliability Engineering** — improving observability, incident response, graceful degradation, fault tolerance, and recovery from dependency failures.
+- **Well-Architected Infrastructure** — building modular cloud environments with security, scalability, reliability, and maintainability in mind.
+- 📚 Preparing for the **AWS Certified Solutions Architect – Associate** certification.
+- 🧠 Exploring **AI-assisted tooling** for platform engineering, automation, observability, and developer workflows.
 
 ---
 
