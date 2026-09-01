@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="PORTFOLIO_URL_HERE"><img height="32" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/vijayputtarevaiah"><img height="32" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>&nbsp;
   <a href="mailto:vijayputtarevaiah@gmail.com"><img height="32" alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
