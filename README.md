@@ -228,6 +228,10 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img alt="Contribution graph" src="https://ghchart.rshah.org/22D3EE/VijayPuttarevaiah" width="98%" />
+</p>
+
+<p align="center">
   <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VijayPuttarevaiah&theme=github_dark" />
 </p>
 
