@@ -75,31 +75,38 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 <img height="36" alt="Kubernetes" title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" />&nbsp;
 <img height="36" alt="Terraform" title="Terraform" src="https://skillicons.dev/icons?i=terraform" />&nbsp;
 <img height="36" alt="Jenkins" title="Jenkins" src="https://skillicons.dev/icons?i=jenkins" />&nbsp;
-<img height="36" alt="GitHub Actions" title="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions" />&nbsp;
-<img height="36" alt="Linux" title="Linux" src="https://skillicons.dev/icons?i=linux" />&nbsp;
-<img height="36" alt="Maven" title="Maven" src="https://skillicons.dev/icons?i=maven" />
+<img height="36" alt="GitHub Actions" title="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions" />
 </p>
 
 <p>
 <img height="24" alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-### Data
+### Databases
 
 <p>
 <img height="36" alt="PostgreSQL" title="PostgreSQL" src="https://skillicons.dev/icons?i=postgres" />&nbsp;
 <img height="36" alt="MySQL" title="MySQL" src="https://skillicons.dev/icons?i=mysql" />&nbsp;
 <img height="36" alt="MongoDB" title="MongoDB" src="https://skillicons.dev/icons?i=mongodb" />&nbsp;
 <img height="36" alt="DynamoDB" title="DynamoDB" src="https://skillicons.dev/icons?i=dynamodb" />&nbsp;
-<img height="36" alt="Redis" title="Redis (caching)" src="https://skillicons.dev/icons?i=redis" />&nbsp;
-<img height="36" alt="Apache Kafka" title="Apache Kafka" src="https://skillicons.dev/icons?i=kafka" />
+<img height="36" alt="Redis" title="Redis (caching)" src="https://skillicons.dev/icons?i=redis" />
 </p>
 
-### Reliability & Testing
+### Messaging & Reliability
 
 <p>
+<img height="36" alt="Apache Kafka" title="Apache Kafka" src="https://skillicons.dev/icons?i=kafka" />&nbsp;
 <img height="36" alt="Grafana" title="Grafana" src="https://skillicons.dev/icons?i=grafana" />&nbsp;
-<img height="36" alt="Prometheus" title="Prometheus" src="https://skillicons.dev/icons?i=prometheus" />&nbsp;
+<img height="36" alt="Prometheus" title="Prometheus" src="https://skillicons.dev/icons?i=prometheus" />
+</p>
+
+<p>
+<img height="24" alt="AWS CloudWatch" src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logoColor=white" />
+</p>
+
+### Testing
+
+<p>
 <img height="36" alt="Vitest" title="Vitest" src="https://skillicons.dev/icons?i=vitest" />
 </p>
 
@@ -107,9 +114,19 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 <img height="24" alt="JUnit 5" src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />&nbsp;
 <img height="24" alt="Mockito" src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white" />&nbsp;
 <img height="24" alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />&nbsp;
-<img height="24" alt="TDD" src="https://img.shields.io/badge/TDD-2C3E50?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="AWS CloudWatch" src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="Structured Logging" src="https://img.shields.io/badge/Structured_Logging-334155?style=for-the-badge&logoColor=white" />
+<img height="24" alt="TDD" src="https://img.shields.io/badge/TDD-2C3E50?style=for-the-badge&logoColor=white" />
+</p>
+
+### Tools
+
+<p>
+<img height="36" alt="VS Code" title="VS Code" src="https://skillicons.dev/icons?i=vscode" />&nbsp;
+<img height="36" alt="IntelliJ IDEA" title="IntelliJ IDEA" src="https://skillicons.dev/icons?i=idea" />&nbsp;
+<img height="36" alt="Git" title="Git" src="https://skillicons.dev/icons?i=git" />&nbsp;
+<img height="36" alt="GitHub" title="GitHub" src="https://skillicons.dev/icons?i=github" />&nbsp;
+<img height="36" alt="Bitbucket" title="Bitbucket" src="https://skillicons.dev/icons?i=bitbucket" />&nbsp;
+<img height="36" alt="Maven" title="Maven" src="https://skillicons.dev/icons?i=maven" />&nbsp;
+<img height="36" alt="Linux" title="Linux" src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
