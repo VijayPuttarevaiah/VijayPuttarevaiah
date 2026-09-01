@@ -228,7 +228,7 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VijayPuttarevaiah&theme=github_dark" width="98%" />
+  <img alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VijayPuttarevaiah&theme=github_dark" />
 </p>
 
 <p align="center">
