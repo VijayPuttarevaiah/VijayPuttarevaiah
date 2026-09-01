@@ -107,14 +107,17 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 ### Testing
 
 <p>
-<img height="36" alt="Vitest" title="Vitest" src="https://skillicons.dev/icons?i=vitest" />
+<img height="24" alt="JUnit 5" src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />&nbsp;
+<img height="24" alt="Mockito" src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="24" alt="Vitest" src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />&nbsp;
+<img height="24" alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 </p>
 
 <p>
-<img height="24" alt="JUnit 5" src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />&nbsp;
-<img height="24" alt="Mockito" src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />&nbsp;
-<img height="24" alt="TDD" src="https://img.shields.io/badge/TDD-2C3E50?style=for-the-badge&logoColor=white" />
+<img height="24" alt="TDD" src="https://img.shields.io/badge/TDD-334155?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="24" alt="Integration Testing" src="https://img.shields.io/badge/Integration_Testing-334155?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="24" alt="Regression Testing" src="https://img.shields.io/badge/Regression_Testing-334155?style=for-the-badge&logoColor=white" />&nbsp;
+<img height="24" alt="White Box Testing" src="https://img.shields.io/badge/White_Box_Testing-334155?style=for-the-badge&logoColor=white" />
 </p>
 
 ### Tools
