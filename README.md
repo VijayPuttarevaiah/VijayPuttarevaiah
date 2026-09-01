@@ -23,43 +23,15 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 ---
 
-## 📦 Featured Projects
+## 🎯 Current Focus
 
-**[Triage](https://github.com/VijayPuttarevaiah/triage) — Autonomous Incident Response & Self-Healing Infrastructure**
-
-`AWS Bedrock` `Step Functions` `Lambda` `DynamoDB` `Terraform` `Python` `Spring Boot`
-
-- Built an autonomous incident-response pipeline that uses **AWS Bedrock** to diagnose incidents from CloudWatch evidence and decide between automated remediation and human approval.
-- Orchestrated **10 AWS Lambda functions** through a Step Functions state machine, hitting **sub-120-second MTTR** on the auto-approved path across **~100 Terraform-managed resources**.
-- Kept the model from acting directly: Bedrock only names an action, while a separate policy engine decides whether to auto-execute it or route it to a human.
-
-**[MeetFocus](https://github.com/VijayPuttarevaiah/meetfocus) — Link-Less Video Conferencing Platform**
-
-`Java` `Spring Boot` `Kafka` `WebSocket` `Eureka` `FastAPI` `PostgreSQL` `Redis` `Docker`
-
-- Designed a link-less video conferencing platform from **5 Spring Boot microservices** and a Python moderation service, connected through Apache Kafka with Eureka handling service discovery.
-- Shipped real-time meeting invitations over WebSocket, and routed chat through Kafka to a toxicity classifier and back, blocking flagged content before broadcast.
-- Validated scalability and reliability through concurrency testing simulating **150 parallel attendee connections**.
-
-**[Recalibrate](https://github.com/VijayPuttarevaiah/recalibrate) — AI-Assisted Adaptive Goal Planner**
-
-`Python` `FastAPI` `React` `MySQL` `Alembic` `GitLab CI` `AWS EC2` `Docker`
-
-- Largest individual contributor on a **4-person team**, owning CI/CD and code quality end to end.
-- Built the GitLab CI pipeline through to deployment on AWS EC2, with Alembic-versioned MySQL migrations keeping schema changes rollback-safe.
-- Integrated DPy static design-smell detection into CI as an enforced gate, then resolved the architectural smells it flagged.
-
-**[LEDGR](https://github.com/VijayPuttarevaiah/ledgr) — Personal Finance & Bill-Splitting Application**
-
-`Next.js` `TypeScript` `PostgreSQL` `React Native` `Vitest`
-
-- Shipped a full-stack finance application where a user's share of any group expense flows into their personal ledger with no manual reconciliation.
-- Delivered **22+ REST API routes** and a **63-test Vitest suite** covering unit, integration, and end-to-end testing.
-- Integrated Anthropic Claude and Google Cloud Vision for categorization and receipt OCR, behind a server-side kill switch that re-verifies every route independently of client state.
+- **Distributed systems** — service decomposition, event-driven messaging, and the failure modes that only appear across a network boundary
+- **Cloud architecture** — AWS and infrastructure as code with Terraform, working toward well-architected system design
+- **Reliability engineering** — monitoring, incident response, and systems designed to fail gracefully
 
 ---
 
-## 🛠️ Core Technologies
+## 🛠️ Core Tech Stack
 
 ### Backend
 
@@ -141,6 +113,53 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 ---
 
+## 📦 Featured Projects
+
+**[Triage](https://github.com/VijayPuttarevaiah/triage) — Autonomous Incident Response & Self-Healing Infrastructure**
+
+`AWS Bedrock` `Step Functions` `Lambda` `DynamoDB` `Terraform` `Python` `Spring Boot`
+
+- Built an autonomous incident-response pipeline that uses **AWS Bedrock** to diagnose incidents from CloudWatch evidence and decide between automated remediation and human approval.
+- Orchestrated **10 AWS Lambda functions** through a Step Functions state machine, hitting **sub-120-second MTTR** on the auto-approved path across **~100 Terraform-managed resources**.
+- Kept the model from acting directly: Bedrock only names an action, while a separate policy engine decides whether to auto-execute it or route it to a human.
+
+**[MeetFocus](https://github.com/VijayPuttarevaiah/meetfocus) — Link-Less Video Conferencing Platform**
+
+`Java` `Spring Boot` `Kafka` `WebSocket` `Eureka` `FastAPI` `PostgreSQL` `Redis` `Docker`
+
+- Designed a link-less video conferencing platform from **5 Spring Boot microservices** and a Python moderation service, connected through Apache Kafka with Eureka handling service discovery.
+- Shipped real-time meeting invitations over WebSocket, and routed chat through Kafka to a toxicity classifier and back, blocking flagged content before broadcast.
+- Validated scalability and reliability through concurrency testing simulating **150 parallel attendee connections**.
+
+**[Recalibrate](https://github.com/VijayPuttarevaiah/recalibrate) — AI-Assisted Adaptive Goal Planner**
+
+`Python` `FastAPI` `React` `MySQL` `Alembic` `GitLab CI` `AWS EC2` `Docker`
+
+- Largest individual contributor on a **4-person team**, owning CI/CD and code quality end to end.
+- Built the GitLab CI pipeline through to deployment on AWS EC2, with Alembic-versioned MySQL migrations keeping schema changes rollback-safe.
+- Integrated DPy static design-smell detection into CI as an enforced gate, then resolved the architectural smells it flagged.
+
+**[LEDGR](https://github.com/VijayPuttarevaiah/ledgr) — Personal Finance & Bill-Splitting Application**
+
+`Next.js` `TypeScript` `PostgreSQL` `React Native` `Vitest`
+
+- Shipped a full-stack finance application where a user's share of any group expense flows into their personal ledger with no manual reconciliation.
+- Delivered **22+ REST API routes** and a **63-test Vitest suite** covering unit, integration, and end-to-end testing.
+- Integrated Anthropic Claude and Google Cloud Vision for categorization and receipt OCR, behind a server-side kill switch that re-verifies every route independently of client state.
+
+---
+
+## 🌐 Open Source
+
+**[Shopizer](https://github.com/shopizer-ecommerce/shopizer) — Java E-Commerce Platform**
+
+`Java` `Refactoring` `Design Patterns`
+
+- Submitted an **8-technique refactoring pull request** with no change to external behaviour: a strategy pattern replacing an extensive if-else chain in payment processing, an extracted shipping facade, and consolidated mapper duplication.
+- Passed the project's automated quality gate with **zero new issues** and zero added duplication, full existing test suite green. [PR #1094](https://github.com/shopizer-ecommerce/shopizer/pull/1094) — open for review.
+
+---
+
 ## 💼 Professional Experience
 
 <p>
@@ -181,17 +200,6 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 
 ---
 
-## 🌐 Open Source
-
-**[Shopizer](https://github.com/shopizer-ecommerce/shopizer) — Java E-Commerce Platform**
-
-`Java` `Refactoring` `Design Patterns`
-
-- Submitted an **8-technique refactoring pull request** with no change to external behaviour: a strategy pattern replacing an extensive if-else chain in payment processing, an extracted shipping facade, and consolidated mapper duplication.
-- Passed the project's automated quality gate with **zero new issues** and zero added duplication, full existing test suite green. [PR #1094](https://github.com/shopizer-ecommerce/shopizer/pull/1094) — open for review.
-
----
-
 ## 🎓 Education
 
 **Master of Applied Computer Science** — Dalhousie University, Halifax · Jan 2026 – Apr 2027
@@ -208,14 +216,6 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 </p>
 
 <sub><i>In progress — AWS Certified Solutions Architect – Associate · Claude Certified Architect – Foundations</i></sub>
-
----
-
-## 🎯 Current Focus
-
-- **Distributed systems** — service decomposition, event-driven messaging, and the failure modes that only appear across a network boundary
-- **Cloud architecture** — AWS and infrastructure as code with Terraform, working toward well-architected system design
-- **Reliability engineering** — monitoring, incident response, and systems designed to fail gracefully
 
 ---
 
