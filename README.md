@@ -184,9 +184,6 @@ Client: [BJ's Wholesale Club](https://www.bjs.com)
 
 - Designed and built a Java/Spring Boot order-rerouting service integrating the **DoorDash** and **Roadie** APIs to detect vendor cancellations, validate delivery capacity, and automatically book the nearest same-day delivery slot, reducing vendor-caused cancellations from **10% to under 1%** and protecting **millions in annual revenue** by preventing customer refunds.
 - Raised **branch coverage to 85%** and **line coverage above 90%** with JUnit 5 suites wired into Jenkins CI/CD pipelines, and engineered configurable kill-switch logic for phased production rollouts.
-- Added error handling with fallback paths, retry logic, structured trace and debug logging, and Spring Security with JWT authentication across both integrations.
-- Created and reviewed technical design documents on Confluence, leading technical walkthroughs and stakeholder demos.
-- Used in-IDE AI coding assistants for boilerplate generation and code suggestions across this build and the carrier refactor below, **cutting development time by 30%**.
 
 ### 🔹 Carrier Management Services + [Aekyam](https://aekyam.com) iPaaS · Jan 2025 – May 2025
 
@@ -196,8 +193,6 @@ Client: [Titan](https://www.titancompany.in/)
 
 - Reduced new-carrier onboarding effort by **75%** by refactoring carrier-specific logic onto the **Strategy pattern** and extending Spring Boot Turnaround Time APIs across **BlueDart**, **Criticalog**, and **Delhivery**.
 - Developed a webhook-driven Delhivery integration for real-time shipment tracking and serviceability updates, eliminating scheduled polling for webhook-supported events.
-- Built and maintained an automated ETL pipeline to extract, validate, map, and transform order data into carrier-specific production formats across **8 carrier integrations**.
-- Wrote React.js components using Redux and Hooks for real-time package tracking and carrier management, including pagination for the Audit Service UI.
 
 <br/>
 
@@ -216,8 +211,6 @@ Client: [Oracle Cerner Corporation](https://www.oracle.com/health/)
 
 - Reduced infrastructure costs by **20%** by modernizing real-time claims scrubbing from a legacy IBM BPM platform to Edifecs, refactoring the scrubbing profiles and containerizing the Spring Boot applications with Docker.
 - Built a **Spring Boot health-check service from scratch**, adopted by the team as an internal tool, monitoring both containerized and non-containerized services and servers across the organization to catch failures before they reached end users.
-- Delivered **4 releases on schedule** across Development and Cert by leading Jenkins and Kubernetes deployments and providing third-level support for UAT and Production issues.
-- Cut post-release bugs by **25%** by raising code coverage to **85%** with JUnit 5, leading code reviews, and performing root-cause analysis on production issues.
 
 <br/>
 
