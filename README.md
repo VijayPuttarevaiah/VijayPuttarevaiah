@@ -134,10 +134,10 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 **[Recalibrate](https://github.com/VijayPuttarevaiah/recalibrate) — AI-Assisted Adaptive Goal Planner**
 
-`Python` `FastAPI` `React` `MySQL` `Alembic` `GitLab CI` `AWS EC2` `Docker`
+`Python` `FastAPI` `React` `MySQL` `AWS EC2` `Docker`
 
 - Largest individual contributor on a **4-person team**, owning CI/CD and code quality end to end.
-- Built the GitLab CI pipeline through to deployment on AWS EC2, with Alembic-versioned MySQL migrations keeping schema changes rollback-safe.
+- Built the CI/CD pipeline through to deployment on AWS EC2, with versioned MySQL migrations keeping schema changes reproducible and rollback-safe.
 - Integrated DPy static design-smell detection into CI as an enforced gate, then resolved the architectural smells it flagged.
 
 **[LEDGR](https://github.com/VijayPuttarevaiah/ledgr) — Personal Finance & Bill-Splitting Application**
