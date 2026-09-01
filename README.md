@@ -1,7 +1,7 @@
 <h1 align="center">Hi &#128075;, I'm Vijay</h1>
 
 <p align="center">
-  <img src="assets/banner.png" alt="Software Engineer, Cloud, DevOps, Exploring AI and ML" width="100%" />
+  <img src="assets/banner.png" alt="Software Engineer, Distributed Systems, Cloud Reliability" width="100%" />
 </p>
 
 <p align="center">
