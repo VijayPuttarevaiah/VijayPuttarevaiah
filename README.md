@@ -293,6 +293,19 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 - Kept the model from acting directly: Bedrock only names an action, while a separate policy engine decides whether to auto-execute it or route it to a human.
 - Provisioned **~100 Terraform-managed resources** including 16 least-privilege IAM roles, with OIDC-federated CI/CD and no long-lived AWS credentials stored anywhere.
 
+```mermaid
+flowchart TD
+    A[CloudWatch Alarm] --> B[EventBridge]
+    B --> C[Step Functions]
+    C --> D[Evidence Collection]
+    D --> E[Bedrock Diagnosis]
+    E --> F{Policy Engine}
+    F -->|auto-approved| G[Remediation]
+    F -->|high risk| H[Human Approval]
+    H --> G
+    G --> I[Verification]
+```
+
 **[MeetFocus](https://github.com/VijayPuttarevaiah/meetfocus) — Link-Less Video Conferencing Platform**
 
 `Java` `Spring Boot` `Kafka` `WebSocket` `Eureka` `FastAPI` `PostgreSQL` `Redis` `Docker`
@@ -301,6 +314,26 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 - Shipped real-time meeting invitations over WebSocket, relaying Kafka-published invite events straight into an attendee's already-open session.
 - Routed chat messages through Kafka to a toxicity classifier and back, blocking flagged content before broadcast.
 - Validated scalability and reliability through concurrency testing simulating **150 parallel attendee connections**.
+
+```mermaid
+flowchart LR
+    CL[Client] --> GW[Gateway Service]
+    GW --> US[User Service]
+    GW --> MS[Meeting Service]
+    GW --> SG[Signaling Service]
+    MS --> KF{{Apache Kafka}}
+    KF --> SG
+    KF --> MD[Moderation Service<br/>Python FastAPI]
+    MD --> KF
+    SG --> WS[WebSocket Sessions]
+    US --> PG[(PostgreSQL)]
+    MS --> PG
+    SG --> RD[(Redis)]
+    US -.register.-> EU[Eureka Discovery]
+    MS -.register.-> EU
+    SG -.register.-> EU
+    GW -.resolve.-> EU
+```
 
 **[LEDGR](https://github.com/VijayPuttarevaiah/ledgr) — Personal Finance & Bill-Splitting Application**
 
