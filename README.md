@@ -223,6 +223,18 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="GitHub activity" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VijayPuttarevaiah&theme=github_dark" width="98%" />
+</p>
+
+<p align="center">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=VijayPuttarevaiah&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
 ## 📫 Contact
 
 [Portfolio](PORTFOLIO_URL_HERE) · [LinkedIn](https://linkedin.com/in/vijayputtarevaiah) · [vijayputtarevaiah@gmail.com](mailto:vijayputtarevaiah@gmail.com)
