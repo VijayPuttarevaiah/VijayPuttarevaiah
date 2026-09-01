@@ -146,7 +146,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 - Built the CI/CD pipeline through to deployment on AWS EC2, with versioned MySQL migrations keeping schema changes reproducible and rollback-safe.
 - Integrated DPy static design-smell detection into CI as an enforced gate, then resolved the architectural smells it flagged.
 
-**[LEDGR](https://github.com/VijayPuttarevaiah/ledgr) — Personal Finance & Bill-Splitting Application**
+**[Ledgr](https://github.com/VijayPuttarevaiah/ledgr) — Personal Finance & Bill-Splitting Application**
 
 `Next.js` `TypeScript` `PostgreSQL` `React Native` `Vitest`
 
