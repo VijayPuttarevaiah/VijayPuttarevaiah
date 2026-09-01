@@ -42,13 +42,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 <img height="36" alt="Hibernate" title="Hibernate" src="https://skillicons.dev/icons?i=hibernate" />&nbsp;
 <img height="36" alt="Python" title="Python" src="https://skillicons.dev/icons?i=python" />&nbsp;
 <img height="36" alt="FastAPI" title="FastAPI" src="https://skillicons.dev/icons?i=fastapi" />&nbsp;
-<img height="36" alt="GraphQL" title="GraphQL" src="https://skillicons.dev/icons?i=graphql" />
-</p>
-
-<p>
-<img height="24" alt="Spring MVC" src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
-<img height="24" alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp;
-<img height="24" alt="Spring Data JPA" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp;
+<img height="36" alt="GraphQL" title="GraphQL" src="https://skillicons.dev/icons?i=graphql" />&nbsp;
 <img height="24" alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logoColor=white" />&nbsp;
 <img height="24" alt="Microservices" src="https://img.shields.io/badge/Microservices-0F5C6B?style=for-the-badge&logoColor=white" />
 </p>
@@ -59,10 +53,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 <img height="36" alt="React" title="React" src="https://skillicons.dev/icons?i=react" />&nbsp;
 <img height="36" alt="Next.js" title="Next.js" src="https://skillicons.dev/icons?i=nextjs" />&nbsp;
 <img height="36" alt="TypeScript" title="TypeScript" src="https://skillicons.dev/icons?i=ts" />&nbsp;
-<img height="36" alt="JavaScript" title="JavaScript" src="https://skillicons.dev/icons?i=js" />
-</p>
-
-<p>
+<img height="36" alt="JavaScript" title="JavaScript" src="https://skillicons.dev/icons?i=js" />&nbsp;
 <img height="24" alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;
 <img height="24" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
@@ -75,10 +66,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 <img height="36" alt="Kubernetes" title="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes" />&nbsp;
 <img height="36" alt="Terraform" title="Terraform" src="https://skillicons.dev/icons?i=terraform" />&nbsp;
 <img height="36" alt="Jenkins" title="Jenkins" src="https://skillicons.dev/icons?i=jenkins" />&nbsp;
-<img height="36" alt="GitHub Actions" title="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions" />
-</p>
-
-<p>
+<img height="36" alt="GitHub Actions" title="GitHub Actions" src="https://skillicons.dev/icons?i=githubactions" />&nbsp;
 <img height="24" alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
@@ -97,10 +85,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 <p>
 <img height="36" alt="Apache Kafka" title="Apache Kafka" src="https://skillicons.dev/icons?i=kafka" />&nbsp;
 <img height="36" alt="Grafana" title="Grafana" src="https://skillicons.dev/icons?i=grafana" />&nbsp;
-<img height="36" alt="Prometheus" title="Prometheus" src="https://skillicons.dev/icons?i=prometheus" />
-</p>
-
-<p>
+<img height="36" alt="Prometheus" title="Prometheus" src="https://skillicons.dev/icons?i=prometheus" />&nbsp;
 <img height="24" alt="AWS CloudWatch" src="https://img.shields.io/badge/AWS_CloudWatch-FF4F8B?style=for-the-badge&logoColor=white" />
 </p>
 
