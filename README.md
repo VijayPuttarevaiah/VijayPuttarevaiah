@@ -187,7 +187,7 @@ flowchart LR
 
 Jan 2025 – Dec 2025 · Bengaluru, India · Clients: [BJ's Wholesale Club](https://www.bjs.com), [Titan](https://www.titancompany.in/)
 
-- **Smart Order Rerouting** — Designed and built a Java/Spring Boot service integrating the **DoorDash** and **Roadie** APIs to detect vendor cancellations and automatically rebook the nearest same-day slot, cutting vendor-caused cancellations from **10% to under 1%** and protecting **millions in annual revenue**.
+- **Smart Order Rerouting** — Designed and built a Java/Spring Boot service integrating the **DoorDash** and **Roadie** APIs to detect vendor cancellations and automatically rebook the nearest same-day slot, cutting vendor-caused cancellations from **10% to under 1%**, reducing customer refunds and improving same-day delivery reliability.
 - **Carrier Management Services** — Reduced new-carrier onboarding effort by **75%** by refactoring carrier-specific logic onto the **Strategy pattern**, and replaced scheduled polling with a webhook-driven integration for real-time shipment tracking.
 
 <br/>
