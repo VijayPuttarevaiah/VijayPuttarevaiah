@@ -354,6 +354,20 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 
 ---
 
+## 💬 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random dev quote" />
+</p>
+
+---
+
 ## 📫 Contact
 
 [LinkedIn](https://linkedin.com/in/vijayputtarevaiah) · [vijayputtarevaiah@gmail.com](mailto:vijayputtarevaiah@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VijayPuttarevaiah&label=Profile+Views&color=0A66C2&style=for-the-badge" alt="Profile views" />
+</p>
