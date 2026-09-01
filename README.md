@@ -106,13 +106,6 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="24" alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🖥️ Operating Systems
-
-<p>
-<img height="36" alt="Linux" title="Linux" src="https://skillicons.dev/icons?i=linux" />&nbsp;
-<img height="36" alt="Windows" title="Windows" src="https://skillicons.dev/icons?i=windows" />
-</p>
-
 ### 🗄️ Databases
 
 <p>
@@ -154,20 +147,6 @@ I am looking for a strong team and a product where the job is not only to write 
 <img height="24" alt="Structured Logging" src="https://img.shields.io/badge/Structured_Logging-5C6BC0?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🤖 AI & LLM
-
-<p>
-<img height="24" alt="Anthropic Claude API" src="https://img.shields.io/badge/Anthropic_Claude_API-D97757?style=for-the-badge&logo=claude&logoColor=white" />&nbsp;
-<img height="24" alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-6E40C9?style=for-the-badge&logo=githubcopilot&logoColor=white" />&nbsp;
-<img height="24" alt="Cursor" src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
-
-<p>
-<img height="24" alt="AWS Bedrock" src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="Groq API" src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="LLM Integration" src="https://img.shields.io/badge/LLM_Integration-6E56CF?style=for-the-badge&logoColor=white" />
-</p>
-
 ### 🧰 Tools
 
 <p>
@@ -184,30 +163,6 @@ I am looking for a strong team and a product where the job is not only to write 
 <p>
 <img height="24" alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />&nbsp;
 <img height="24" alt="PuTTY" src="https://img.shields.io/badge/PuTTY-5A5A5A?style=for-the-badge&logoColor=white" />
-</p>
-
-### 📐 Core CS
-
-<p>
-<img height="24" alt="Data Structures and Algorithms" src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-1D4ED8?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="Object-Oriented Programming" src="https://img.shields.io/badge/Object--Oriented_Programming-0891B2?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="Software Design Principles" src="https://img.shields.io/badge/Software_Design_Principles-7C3AED?style=for-the-badge&logoColor=white" />
-</p>
-
-<p>
-<img height="24" alt="Distributed Systems" src="https://img.shields.io/badge/Distributed_Systems-DB2777?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="Microservices" src="https://img.shields.io/badge/Microservices-059669?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="Cloud-Native Applications" src="https://img.shields.io/badge/Cloud--Native_Applications-EA580C?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="Scalable Application Design" src="https://img.shields.io/badge/Scalable_Application_Design-4F46E5?style=for-the-badge&logoColor=white" />
-</p>
-
-### 🔄 Practices
-
-<p>
-<img height="24" alt="Agile/Scrum" src="https://img.shields.io/badge/Agile%2FScrum-B45309?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="Code Reviews" src="https://img.shields.io/badge/Code_Reviews-BE185D?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="Technical Documentation" src="https://img.shields.io/badge/Technical_Documentation-0369A1?style=for-the-badge&logoColor=white" />&nbsp;
-<img height="24" alt="Software Development Life Cycle" src="https://img.shields.io/badge/Software_Development_Life_Cycle_(SDLC)-15803D?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
