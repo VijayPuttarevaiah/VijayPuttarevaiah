@@ -160,7 +160,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 <img height="36" alt="Software Engineer" src="https://img.shields.io/badge/Software_Engineer-B45309?style=for-the-badge&logoColor=white" />
 </p>
 
-Jan 2025 – Dec 2025 · Bengaluru, India · Clients: [BJ's Wholesale Club](https://www.bjs.com), [Titan](https://www.titancompany.in/)
+Jan 2025 – Dec 2025 · Clients: [BJ's Wholesale Club](https://www.bjs.com), [Titan](https://www.titancompany.in/)
 
 - Built Java/Spring Boot order-rerouting and carrier-integration services, cutting vendor-caused cancellations from **10% to under 1%** and new-carrier onboarding effort by **75%**.
 
@@ -171,7 +171,7 @@ Jan 2025 – Dec 2025 · Bengaluru, India · Clients: [BJ's Wholesale Club](http
 <img height="36" alt="Software Engineer" src="https://img.shields.io/badge/Software_Engineer-B45309?style=for-the-badge&logoColor=white" />
 </p>
 
-Apr 2022 – Jul 2024 · Bengaluru, India · Client: [Oracle Cerner Corporation](https://www.oracle.com/health/)
+Apr 2022 – Jul 2024 · Client: [Oracle Cerner Corporation](https://www.oracle.com/health/)
 
 - Modernized real-time claims scrubbing off a legacy IBM BPM platform onto containerized Spring Boot services, cutting infrastructure costs by **20%**.
 
@@ -182,7 +182,7 @@ Apr 2022 – Jul 2024 · Bengaluru, India · Client: [Oracle Cerner Corporation]
 <img height="36" alt="Transaction Risk Investigator" src="https://img.shields.io/badge/Transaction_Risk_Investigator-B45309?style=for-the-badge&logoColor=white" />
 </p>
 
-Sep 2020 – Apr 2022 · Bengaluru, India
+Sep 2020 – Apr 2022
 
 - Analyzed fraudulent transaction patterns in SQL, contributing to a **30% improvement in fraud-detection accuracy**.
 
