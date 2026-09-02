@@ -24,15 +24,6 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 ---
 
-## 🎯 Current Focus
-
-- **Distributed Systems** — building reliable services that communicate and fail gracefully.
-- **Event-Driven Microservices** — working with asynchronous messaging and loosely coupled backend systems.
-- **Cloud & Reliability** — designing AWS infrastructure with Terraform, observability, and fault tolerance in mind.
-- 📚 Preparing for the **AWS Certified Solutions Architect – Associate** certification and exploring **AI-assisted engineering workflows**.
-
----
-
 ## 🛠️ Core Tech Stack
 
 ### Backend
@@ -162,8 +153,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 `Java` `Refactoring` `Design Patterns`
 
-- Submitted an **8-technique refactoring pull request** with no change to external behaviour: a strategy pattern replacing an extensive if-else chain in payment processing, an extracted shipping facade, and consolidated mapper duplication.
-- Passed the project's automated quality gate with **zero new issues** and zero added duplication, full existing test suite green. [PR #1094](https://github.com/shopizer-ecommerce/shopizer/pull/1094) — open for review.
+- Makes payment processing extensible for the project: a new payment provider can be added without touching the existing if-else chain, shipping logic moves behind a dedicated facade, and duplicated mapper code is consolidated into shared utilities. Behaviour is unchanged, the quality gate passes with **zero new issues**, and the existing test suite stays green. [PR #1094](https://github.com/shopizer-ecommerce/shopizer/pull/1094) — open for review.
 
 ---
 
@@ -204,14 +194,6 @@ Sep 2020 – Apr 2022 · Bengaluru, India
 - Participated in **ATLAS**, Amazon's internal technical upskilling program, while collaborating with stakeholders to improve investigation SOPs.
 
 *Detailed breakdowns of each project are on my [portfolio](PORTFOLIO_URL_HERE).*
-
----
-
-## 🎓 Education
-
-**Master of Applied Computer Science** — Dalhousie University, Halifax · Jan 2026 – Apr 2027
-
-**B.E. Electrical & Electronics Engineering** — National Institute of Engineering, Mysuru · Aug 2015 – Jul 2019
 
 ---
 
