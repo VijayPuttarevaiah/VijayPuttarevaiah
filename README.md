@@ -117,33 +117,29 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 `AWS Bedrock` `Step Functions` `Lambda` `DynamoDB` `Terraform` `Python` `Spring Boot`
 
-- Built an autonomous incident-response pipeline that uses **AWS Bedrock** to diagnose incidents from CloudWatch evidence and decide between automated remediation and human approval.
-- Orchestrated **10 AWS Lambda functions** through a Step Functions state machine, hitting **sub-120-second MTTR** on the auto-approved path across **~100 Terraform-managed resources**.
-- Kept the model from acting directly: Bedrock only names an action, while a separate policy engine decides whether to auto-execute it or route it to a human.
+- Detects, diagnoses, and remediates production incidents on a Spring Boot fintech workload without a human in the loop: a CloudWatch alarm triggers a Step Functions pipeline that gathers evidence, diagnoses the fault with AWS Bedrock, then either auto-remediates or routes to a human for approval, at **sub-120-second MTTR**.
+- Keeps the model out of the control path — Bedrock only names an action while a separate policy engine decides whether to execute it — and provisions the whole plane as **~100 Terraform-managed resources** with OIDC-federated CI/CD.
 
 **[MeetFocus](https://github.com/VijayPuttarevaiah/meetfocus) — Link-Less Video Conferencing Platform**
 
 `Java` `Spring Boot` `Kafka` `WebSocket` `Eureka` `FastAPI` `PostgreSQL` `Redis` `Docker`
 
-- Designed a link-less video conferencing platform from **5 Spring Boot microservices** and a Python moderation service, connected through Apache Kafka with Eureka handling service discovery.
-- Shipped real-time meeting invitations over WebSocket, and routed chat through Kafka to a toxicity classifier and back, blocking flagged content before broadcast.
-- Validated scalability and reliability through concurrency testing simulating **150 parallel attendee connections**.
+- Runs video meetings with no shareable links: attendees join through invitations pushed to their open session in real time over WebSocket, served by Spring Boot microservices and a Python moderation service coordinated through Apache Kafka with Eureka service discovery.
+- Moderates chat before it reaches anyone, routing every message through Kafka to a toxicity classifier and back, and holds up under concurrency testing simulating **150 parallel attendee connections**.
 
 **[Recalibrate](https://github.com/VijayPuttarevaiah/recalibrate) — AI-Assisted Adaptive Goal Planner**
 
 `Python` `FastAPI` `React` `MySQL` `AWS EC2` `Docker`
 
-- Largest individual contributor on a **4-person team**, owning CI/CD and code quality end to end.
-- Built the CI/CD pipeline through to deployment on AWS EC2, with versioned MySQL migrations keeping schema changes reproducible and rollback-safe.
-- Integrated DPy static design-smell detection into CI as an enforced gate, then resolved the architectural smells it flagged.
+- Turns a goal into a daily task plan and adapts when life gets in the way: missed tasks are detected against the roadmap and the schedule is regenerated rather than left to go stale.
+- Largest individual contributor on a **4-person team**, owning CI/CD end to end through deployment on AWS EC2, with versioned MySQL migrations and static design-smell detection enforced as a CI gate.
 
 **[Ledgr](https://github.com/VijayPuttarevaiah/ledgr) — Personal Finance & Bill-Splitting Application**
 
 `Next.js` `TypeScript` `PostgreSQL` `React Native` `Vitest`
 
-- Shipped a full-stack finance application where a user's share of any group expense flows into their personal ledger with no manual reconciliation.
-- Delivered **22+ REST API routes** and a **63-test Vitest suite** covering unit, integration, and end-to-end testing.
-- Integrated Anthropic Claude and Google Cloud Vision for categorization and receipt OCR, behind a server-side kill switch that re-verifies every route independently of client state.
+- Splits shared group expenses and folds each person's share straight into their own ledger and analytics, with no manual reconciliation, across **22+ REST API routes** covered by a **63-test suite**.
+- Categorizes transactions and reads receipts using Claude and Google Cloud Vision, behind a server-side kill switch that re-verifies every route independently of client state and caps monthly AI spend.
 
 ---
 
