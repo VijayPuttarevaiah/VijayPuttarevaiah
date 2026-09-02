@@ -149,7 +149,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 `Java` `Refactoring` `Design Patterns`
 
-- Adding a new payment provider no longer means editing an existing if-else chain. Shipping logic moves behind its own facade and duplicated mapper code becomes a shared utility. Behaviour is unchanged, the quality gate passes with **zero new issues**, and the existing tests stay green. [PR #1094](https://github.com/shopizer-ecommerce/shopizer/pull/1094), open for review.
+- Payment processing is the riskiest code in an e-commerce platform to change. This PR moves it onto a strategy pattern so the project can add a new payment provider without editing code that already works, pulls shipping logic into its own facade, and folds duplicated mapper code into a shared utility. That leaves maintainers less code to look after and a smaller chance of breaking checkout the next time someone touches it. Behaviour is unchanged, the quality gate passes with **zero new issues**, and the existing tests stay green. [PR #1094](https://github.com/shopizer-ecommerce/shopizer/pull/1094), open for review.
 
 ---
 
