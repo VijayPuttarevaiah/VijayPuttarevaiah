@@ -117,29 +117,29 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 `AWS Bedrock` `Step Functions` `Lambda` `DynamoDB` `Terraform` `Python` `Spring Boot`
 
-- Detects, diagnoses, and remediates production incidents on a Spring Boot fintech workload without a human in the loop: a CloudWatch alarm triggers a Step Functions pipeline that gathers evidence, diagnoses the fault with AWS Bedrock, then either auto-remediates or routes to a human for approval, at **sub-120-second MTTR**.
-- Keeps the model out of the control path — Bedrock only names an action while a separate policy engine decides whether to execute it — and provisions the whole plane as **~100 Terraform-managed resources** with OIDC-federated CI/CD.
+- Fixes production incidents on a Spring Boot fintech workload without waking anyone up. A CloudWatch alarm starts a Step Functions pipeline that gathers evidence, diagnoses the fault with AWS Bedrock, then either remediates on its own or asks a human first. **Sub-120-second MTTR** on the automatic path.
+- The model never touches AWS directly. Bedrock only names an action, and a separate policy engine decides whether to run it. The whole plane is **~100 Terraform-managed resources** provisioned with OIDC-federated CI/CD.
 
 **[MeetFocus](https://github.com/VijayPuttarevaiah/meetfocus) — Link-Less Video Conferencing Platform**
 
 `Java` `Spring Boot` `Kafka` `WebSocket` `Eureka` `FastAPI` `PostgreSQL` `Redis` `Docker`
 
-- Runs video meetings with no shareable links: attendees join through invitations pushed to their open session in real time over WebSocket, served by Spring Boot microservices and a Python moderation service coordinated through Apache Kafka with Eureka service discovery.
-- Moderates chat before it reaches anyone, routing every message through Kafka to a toxicity classifier and back, and holds up under concurrency testing simulating **150 parallel attendee connections**.
+- Runs video meetings with no shareable links. Invitations are pushed straight to an attendee's open session over WebSocket, served by Spring Boot microservices and a Python moderation service talking over Apache Kafka, with Eureka handling service discovery.
+- Chat is moderated before anyone sees it. Every message goes through Kafka to a toxicity classifier and back. Tested against **150 parallel attendee connections**.
 
 **[Recalibrate](https://github.com/VijayPuttarevaiah/recalibrate) — AI-Assisted Adaptive Goal Planner**
 
 `Python` `FastAPI` `React` `MySQL` `AWS EC2` `Docker`
 
-- Turns a goal into a daily task plan and adapts when life gets in the way: missed tasks are detected against the roadmap and the schedule is regenerated rather than left to go stale.
-- Largest individual contributor on a **4-person team**, owning CI/CD end to end through deployment on AWS EC2, with versioned MySQL migrations and static design-smell detection enforced as a CI gate.
+- Turns a goal into a daily task plan, then rebuilds the plan when you fall behind instead of letting it go stale.
+- I was the largest contributor on a **4-person team** and owned CI/CD through to deployment on AWS EC2, with versioned MySQL migrations and a static design-smell check enforced in the pipeline.
 
 **[Ledgr](https://github.com/VijayPuttarevaiah/ledgr) — Personal Finance & Bill-Splitting Application**
 
 `Next.js` `TypeScript` `PostgreSQL` `React Native` `Vitest`
 
-- Splits shared group expenses and folds each person's share straight into their own ledger and analytics, with no manual reconciliation, across **22+ REST API routes** covered by a **63-test suite**.
-- Categorizes transactions and reads receipts using Claude and Google Cloud Vision, behind a server-side kill switch that re-verifies every route independently of client state and caps monthly AI spend.
+- Splits a shared expense and drops each person's share straight into their own ledger and analytics. No manual reconciliation. **22+ REST API routes** covered by a **63-test suite**.
+- Claude and Google Cloud Vision handle categorization and receipt OCR. Both sit behind a server-side kill switch that re-checks every route on its own and stops when monthly AI spend hits a cap.
 
 ---
 
@@ -149,7 +149,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 `Java` `Refactoring` `Design Patterns`
 
-- Makes payment processing extensible for the project: a new payment provider can be added without touching the existing if-else chain, shipping logic moves behind a dedicated facade, and duplicated mapper code is consolidated into shared utilities. Behaviour is unchanged, the quality gate passes with **zero new issues**, and the existing test suite stays green. [PR #1094](https://github.com/shopizer-ecommerce/shopizer/pull/1094) — open for review.
+- Adding a new payment provider no longer means editing an existing if-else chain. Shipping logic moves behind its own facade and duplicated mapper code becomes a shared utility. Behaviour is unchanged, the quality gate passes with **zero new issues**, and the existing tests stay green. [PR #1094](https://github.com/shopizer-ecommerce/shopizer/pull/1094), open for review.
 
 ---
 
@@ -186,7 +186,7 @@ Sep 2020 – Apr 2022
 
 - Analyzed fraudulent transaction patterns in SQL, contributing to a **30% improvement in fraud-detection accuracy**.
 
-*A detailed breakdown of each engagement — projects, architecture, and outcomes — is available on my [portfolio](PORTFOLIO_URL_HERE).*
+*I've written up each of these in more detail on my [portfolio](PORTFOLIO_URL_HERE).*
 
 ---
 
@@ -197,7 +197,7 @@ Sep 2020 – Apr 2022
 <img height="32" alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
 </p>
 
-<sub><i>In progress — AWS Certified Solutions Architect – Associate · Claude Certified Architect – Foundations</i></sub>
+<sub><i>In progress: AWS Certified Solutions Architect – Associate · Claude Certified Architect – Foundations</i></sub>
 
 ---
 
