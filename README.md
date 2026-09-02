@@ -162,8 +162,7 @@ Now completing a Master of Applied Computer Science at Dalhousie University in H
 
 Jan 2025 – Dec 2025 · Bengaluru, India · Clients: [BJ's Wholesale Club](https://www.bjs.com), [Titan](https://www.titancompany.in/)
 
-- **Smart Order Rerouting** — Designed and built a Java/Spring Boot service integrating the **DoorDash** and **Roadie** APIs to detect vendor cancellations and automatically rebook the nearest same-day slot, cutting vendor-caused cancellations from **10% to under 1%**, reducing customer refunds and improving same-day delivery reliability.
-- **Carrier Management Services** — Reduced new-carrier onboarding effort by **75%** by refactoring carrier-specific logic onto the **Strategy pattern**, and replaced scheduled polling with a webhook-driven integration for real-time shipment tracking.
+- Built Java/Spring Boot order-rerouting and carrier-integration services, cutting vendor-caused cancellations from **10% to under 1%** and new-carrier onboarding effort by **75%**.
 
 <br/>
 
@@ -174,8 +173,7 @@ Jan 2025 – Dec 2025 · Bengaluru, India · Clients: [BJ's Wholesale Club](http
 
 Apr 2022 – Jul 2024 · Bengaluru, India · Client: [Oracle Cerner Corporation](https://www.oracle.com/health/)
 
-- Reduced infrastructure costs by **20%** by modernizing real-time claims scrubbing from a legacy IBM BPM platform to Edifecs, containerizing the Spring Boot applications with Docker and leading the Jenkins and Kubernetes rollouts.
-- Built a **Spring Boot health-check service from scratch**, adopted by the team as an internal tool, monitoring containerized and non-containerized services across the organization to catch failures before they reached end users.
+- Modernized real-time claims scrubbing off a legacy IBM BPM platform onto containerized Spring Boot services, cutting infrastructure costs by **20%**.
 
 <br/>
 
@@ -186,10 +184,9 @@ Apr 2022 – Jul 2024 · Bengaluru, India · Client: [Oracle Cerner Corporation]
 
 Sep 2020 – Apr 2022 · Bengaluru, India
 
-- Analyzed fraudulent transaction patterns using SQL and communicated data-driven insights to stakeholders, contributing to a **30% improvement in fraud-detection accuracy**.
-- Participated in **ATLAS**, Amazon's internal technical upskilling program, while collaborating with stakeholders to improve investigation SOPs.
+- Analyzed fraudulent transaction patterns in SQL, contributing to a **30% improvement in fraud-detection accuracy**.
 
-*Detailed breakdowns of each project are on my [portfolio](PORTFOLIO_URL_HERE).*
+*A detailed breakdown of each engagement — projects, architecture, and outcomes — is available on my [portfolio](PORTFOLIO_URL_HERE).*
 
 ---
 
