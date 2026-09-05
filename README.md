@@ -212,7 +212,7 @@ Sep 2020 – Apr 2022
   <img height="30" alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
 </p>
 
-<p align="center"><sub><i>In progress: AWS Certified Solutions Architect &ndash; Associate &middot; Claude Certified Architect &ndash; Foundations</i></sub></p>
+<p align="center"><sub><i>In progress: AWS Certified Solutions Architect &ndash; Associate</i></sub></p>
 
 ---
 
