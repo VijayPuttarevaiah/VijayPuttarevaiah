@@ -194,8 +194,12 @@ Sep 2020 – Apr 2022
 
 <p>
 <img height="32" alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />&nbsp;
-<a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url"><img height="32" alt="AWS Certified AI Practitioner (verify on Credly)" src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" /></a>
+<a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url"><img height="32" alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" /></a>&nbsp;
+<a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url"><img height="32" alt="Verify this credential on Credly" src="https://img.shields.io/badge/%E2%9C%93_Verify_on_Credly-FF6B00?style=for-the-badge&logoColor=white" /></a>
 </p>
+
+**AWS Certified AI Practitioner** — issued by Amazon Web Services Training and Certification.
+[**Verify this credential on Credly &rarr;**](https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url)
 
 <sub><i>In progress: AWS Certified Solutions Architect – Associate · Claude Certified Architect – Foundations</i></sub>
 
