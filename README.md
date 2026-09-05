@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="PORTFOLIO_URL_HERE"><img height="32" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logoColor=white" /></a>&nbsp;
+  <a href="https://vijayputtarevaiah.vercel.app"><img height="32" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2EA043?style=for-the-badge&logoColor=white" /></a>&nbsp;
   <a href="https://linkedin.com/in/vijayputtarevaiah"><img height="32" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" /></a>&nbsp;
   <a href="mailto:vijayputtarevaiah@gmail.com"><img height="32" alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-**Backend Software Engineer with 5 years of industry experience across Amazon, Wipro Limited, and Acuver Consulting, including 3+ years building production systems with Java and Spring Boot.**
+**Backend Software Engineer with 5 years of industry experience across Amazon, Wipro Limited, and Acuver Consulting, including 3.5 years building production systems with Java and Spring Boot.**
 
 Nearly all of it on systems where failure had an immediate, measurable cost. Same-day delivery orders that cancel when a courier's API goes down. Healthcare claims that stop clearing when a scrubbing engine stalls. Fraudulent transactions that slip through while detection lags. Three industries, and the same lesson three different ways: writing the feature is the easy part. A system is only as good as what it does on its worst day.
 
@@ -186,7 +186,7 @@ Sep 2020 – Apr 2022
 
 - Analyzed fraudulent transaction patterns in SQL, contributing to a **30% improvement in fraud-detection accuracy**.
 
-*I've written up each of these in more detail on my [portfolio](PORTFOLIO_URL_HERE).*
+*I've written up each of these in more detail on my [portfolio](https://vijayputtarevaiah.vercel.app).*
 
 ---
 
@@ -215,4 +215,4 @@ Sep 2020 – Apr 2022
 
 ## 📫 Contact
 
-[Portfolio](PORTFOLIO_URL_HERE) · [LinkedIn](https://linkedin.com/in/vijayputtarevaiah) · [vijayputtarevaiah@gmail.com](mailto:vijayputtarevaiah@gmail.com)
+[Portfolio](https://vijayputtarevaiah.vercel.app) · [LinkedIn](https://linkedin.com/in/vijayputtarevaiah) · [vijayputtarevaiah@gmail.com](mailto:vijayputtarevaiah@gmail.com)
