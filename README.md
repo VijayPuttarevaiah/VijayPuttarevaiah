@@ -192,16 +192,27 @@ Sep 2020 – Apr 2022
 
 ## 📜 Certifications
 
-<p>
-<img height="32" alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />&nbsp;
-<a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url"><img height="32" alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" /></a>&nbsp;
-<a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url"><img height="32" alt="Verify this credential on Credly" src="https://img.shields.io/badge/%E2%9C%93_Verify_on_Credly-FF6B00?style=for-the-badge&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url" title="Verify on Credly">
+    <img height="150" alt="AWS Certified AI Practitioner - click to verify on Credly" src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" />
+  </a>
 </p>
 
-**AWS Certified AI Practitioner** — issued by Amazon Web Services Training and Certification.
-[**Verify this credential on Credly &rarr;**](https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url)
+<p align="center">
+  <a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url"><img height="30" alt="Verify this credential on Credly" src="https://img.shields.io/badge/%E2%9C%93_Verify_on_Credly-FF6B00?style=for-the-badge&logoColor=white" /></a>
+</p>
 
-<sub><i>In progress: AWS Certified Solutions Architect – Associate · Claude Certified Architect – Foundations</i></sub>
+<p align="center">
+  <b>AWS Certified AI Practitioner</b><br/>
+  Issued by Amazon Web Services Training and Certification<br/>
+  <a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url"><b>Verify this credential on Credly &rarr;</b></a>
+</p>
+
+<p align="center">
+  <img height="30" alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+</p>
+
+<p align="center"><sub><i>In progress: AWS Certified Solutions Architect &ndash; Associate &middot; Claude Certified Architect &ndash; Foundations</i></sub></p>
 
 ---
 
