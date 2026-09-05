@@ -194,7 +194,7 @@ Sep 2020 – Apr 2022
 
 <p>
 <img height="32" alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />&nbsp;
-<img height="32" alt="AWS Certified AI Practitioner" src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+<a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url"><img height="32" alt="AWS Certified AI Practitioner (verify on Credly)" src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" /></a>
 </p>
 
 <sub><i>In progress: AWS Certified Solutions Architect – Associate · Claude Certified Architect – Foundations</i></sub>
