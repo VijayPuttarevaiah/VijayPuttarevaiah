@@ -209,7 +209,13 @@ Sep 2020 – Apr 2022
 </p>
 
 <p align="center">
-  <img height="30" alt="AWS Certified Cloud Practitioner" src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img height="150" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
+</p>
+
+<p align="center">
+  <b>AWS Certified Cloud Practitioner</b><br/>
+  Issued by Amazon Web Services Training and Certification<br/>
+  <sub><i>Credly verification link to follow</i></sub>
 </p>
 
 <p align="center"><sub><i>In progress: AWS Certified Solutions Architect &ndash; Associate</i></sub></p>
