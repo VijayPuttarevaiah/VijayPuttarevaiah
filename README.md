@@ -209,13 +209,19 @@ Sep 2020 – Apr 2022
 </p>
 
 <p align="center">
-  <img height="150" alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
+  <a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url" title="Verify on Credly">
+    <img height="150" alt="AWS Certified Cloud Practitioner - click to verify on Credly" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url"><img height="30" alt="Verify this credential on Credly" src="https://img.shields.io/badge/%E2%9C%93_Verify_on_Credly-FF6B00?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 <p align="center">
   <b>AWS Certified Cloud Practitioner</b><br/>
   Issued by Amazon Web Services Training and Certification<br/>
-  <sub><i>Credly verification link to follow</i></sub>
+  <a href="https://www.credly.com/badges/eeae3828-22e0-4ec6-9a81-d1a5ec79746c/public_url"><b>Verify this credential on Credly &rarr;</b></a>
 </p>
 
 <p align="center"><sub><i>In progress: AWS Certified Solutions Architect &ndash; Associate</i></sub></p>
