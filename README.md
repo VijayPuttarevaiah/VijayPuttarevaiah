@@ -14,7 +14,7 @@
 
 ## 👤 About Me
 
-**Backend Software Engineer with 5 years of industry experience across Amazon, Wipro Limited, and Acuver Consulting, including 3.5 years building production systems with Java and Spring Boot.**
+**Software Engineer with 5 years of industry experience across Amazon, Wipro Limited, and Acuver Consulting, including 3.5 years building production systems with Java and Spring Boot.**
 
 Nearly all of it on systems where failure had an immediate, measurable cost. Same-day delivery orders that cancel when a courier's API goes down. Healthcare claims that stop clearing when a scrubbing engine stalls. Fraudulent transactions that slip through while detection lags. Three industries, and the same lesson three different ways: writing the feature is the easy part. A system is only as good as what it does on its worst day.
 
